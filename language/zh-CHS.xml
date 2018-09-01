@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<language>zh-CHS</language>
+	<name>简体中文</name>
+	<version>v1.0</version>
+	<author>飞天神喵</author>
+	<description>简体中文语言包</description>
+	<items>
+		<item key="MainWindowTitle">GOSICK</item>
+		
+		<!--      菜单栏的动作   start      -->
+		<item key="m_loginAction">登录</item>
+		<item key="m_logoutAction">注销</item>
+		<item key="m_fileAction">文件管理</item>
+		<item key="m_exitAction">退出</item>
+		<item key="m_newFileAction">新建</item>
+		<item key="m_openFileAction">打开</item>
+		<item key="m_fileSaveAction">保存</item>
+		<item key="m_fileSaveAllAction">保存全部</item>
+		<item key="m_FindTextAction">查找</item>
+		<item key="m_undoAction">撤消</item>
+		<item key="m_copyAction">复制</item>
+		<item key="m_pasteAction">粘贴</item>
+		<item key="m_addCellAction">添加基站</item>
+		<item key="m_selectCellAction">查询基站</item>
+		<item key="m_scriptAction">执行脚本</item>
+		<item key="m_cascadeAction">层叠</item>
+		<item key="m_tileAction">展开</item>
+		<item key="m_closeAllAction">关闭全部窗口</item>
+		<item key="m_toolAction">工具</item>
+		<item key="m_appAction">APP</item>
+		<item key="m_conversionAction">单位换算</item>
+		<item key="m_designAction">设计</item>
+		<item key="m_stackeAction">QDockWidget-堆栈窗口</item>
+		<item key="m_helpAction">帮助</item>
+		<item key="m_CplusplusAction">C++</item>
+		<item key="m_CAction">C</item>
+		<item key="m_abortAction">关于</item>
+		<!--      菜单栏的动作   end      -->
+		
+		<!--      菜单栏项      start     -->
+		<item key="m_adminMenu">管理</item>
+		<item key="m_fileMenu">文件</item>
+		<item key="m_editMenu">编辑</item>
+		<item key="m_dataMenu">数据</item>
+		<item key="m_windonMenu">窗口</item>
+		<item key="m_develMenu">开发</item>
+		<item key="m_lessonMenu">课程</item>
+		<item key="m_helpMenu">帮助</item>
+		<!--      菜单栏项      end     -->
+		
+		<!--      dbconnectdlg类对话框      start     -->
+		<item key="DBconnectWindowTitle">登录</item>
+		<item key="m_labelUser">用户名</item>
+		<item key="m_labelPwd">密码</item>
+		<item key="m_labelDbName">数据库名</item>
+		<item key="m_labelServerIp">Host</item>
+		<item key="m_btnLogin">连接</item>
+		<item key="m_btnCancel">取消</item>
+		<!--      dbconnectdlg类对话框      end     -->
+	</items>
+</resources>

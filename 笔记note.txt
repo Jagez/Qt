@@ -1,0 +1,10 @@
+Creating Translucent Windows
+Since Qt 4.5, it has been possible to create windows with translucent regions on window systems that support compositing.
+
+To enable this feature in a top-level widget, set itsQt::WA_TranslucentBackgroundattribute withsetAttribute() and ensure that its background is painted with non-opaque colors in the regions you want to be partially transparent.
+
+Platform notes:
+
+X11: This feature relies on the use of an X server that supports ARGB visuals and a compositing window manager.
+Windows: The widget needs to have theQt::FramelessWindowHintwindow flag set for the translucency to work.
+

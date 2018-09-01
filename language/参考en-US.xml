@@ -1,0 +1,1382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<en-US>
+  <Item Key="Menu_File" Value=" _File " />
+  <Item Key="Menu_File_MacVer" Value=" File " />
+  <Item Key="Menu_File_NewProject" Value="New Project" />
+  <Item Key="Menu_File_OpenProject" Value="Open Project" />
+  <Item Key="Menu_File_RecentProject" Value="Recent Projects" />
+  <Item Key="Menu_File_CloseProject" Value="Close Project" />
+  <Item Key="Menu_File_SaveProject" Value="Save Project" />
+  <Item Key="Menu_File_SaveAs" Value="Save As" />
+  <Item Key="Menu_File_Export" Value="Export" />
+  <Item Key="Menu_File_ExportProject" Value="Export Project" />
+  <Item Key="Menu_File_Import" Value="Import" />
+  <Item Key="Menu_File_ImportProject" Value="Import Project" />
+  <Item Key="Menu_File_ImportTemplate" Value="Import Template" />
+  <Item Key="Menu_File_ImportResources" Value="Import Resources" />
+  <Item Key="Menu_File_ImportFile" Value="Import Files" />
+  <Item Key="Menu_File_ImportFolder" Value="Import Folder" />
+  <Item Key="Menu_File_PublishRes" Value="Publish Resource" />
+  <Item Key="Menu_File_PublishToCodeIDE" Value="Publish to Cocos Code IDE Project" />
+  <Item Key="Menu_File_PublishToXcode" Value="Publish to Xcode Project" />
+  <Item Key="Menu_File_PublishToVS" Value="Publish to Visual Studio Project" />
+  <Item Key="Menu_Publish_ExportSetting" Value="Export Setting" />
+  <Item Key="Menu_File_Exit" Value="Quit" />
+  <Item Key="Menu_Edit" Value=" _Edit " />
+  <Item Key="Menu_Edit_MacVer" Value=" Edit " />
+  <Item Key="Menu_Edit_Undo" Value="Undo" />
+  <Item Key="Menu_Edit_Redo" Value="Redo" />
+  <Item Key="Menu_Edit_DragChangeSize" Value="Drag Change Size" />
+  <Item Key="Menu_Edit_DragChangeScale" Value="Drag Change Scale" />
+  <Item Key="Menu_Edit_Preferences" Value="Preferences" />
+  <Item Key="Menu_View" Value=" _View " />
+  <Item Key="Menu_View_MacVer" Value=" View " />
+  <Item Key="Menu_View_VisibleAnchorPoint" Value="Anchor Point" />
+  <Item Key="Menu_View_VisibleRuler" Value="Ruler" />
+  <Item Key="Menu_View_Guides" Value="Guides" />
+  <Item Key="Menu_View_ClearGuides" Value="Clear Guides" />
+  <Item Key="Menu_View_LockGuides" Value="Lock Guides" />
+  <Item Key="Menu_View_NewGuides" Value="New Guides" />
+  <Item Key="Menu_View_AbsorptionGuides" Value="Snap to Guides" />
+  <Item Key="Menu_View_Cavas_Scale" Value="Zoom" />
+  <Item Key="Menu_View_Cavas_ScaleBig" Value="Zoom In" />
+  <Item Key="Menu_View_Cavas_ScaleSmall" Value="Zoom Out" />
+  <Item Key="Menu_Project" Value=" _Project " />
+  <Item Key="Menu_Project_MacVer" Value=" Project " />
+  <Item Key="Menu_Project_Package" Value="Package Project" />
+  <Item Key="Menu_Project_PackageLast" Value="Package using Previous Settings)" />
+  <Item Key="Menu_Project_Publish" Value="Publish Project" />
+  <Item Key="Menu_Project_PublishLast" Value="Publish using Previous Settings)" />
+  <Item Key="Menu_Project_PublishPackage" Value="Publish and Package" />
+  <Item Key="Menu_Project_RunProject" Value="Run Project" />
+  <Item Key="Menu_Project_RunLast" Value="Run Project using Previous Settings" />
+  <Item Key="Menu_Window" Value=" _Window " />
+  <Item Key="Menu_Window_MacVer" Value=" Window " />
+  <Item Key="Menu_Window_Reset" Value="Reset Window Layout" />
+  <Item Key="Menu_Help" Value=" _Help " />
+  <Item Key="Menu_Help_MacVer" Value=" Help " />
+  <Item Key="Menu_Help_ShowHelp" Value="Help" />
+  <Item Key="Menu_Help_About" Value="About Cocos Studio" />
+  <Item Key="Menu_Help_StartLauncher" Value="Start Launcher" />
+  <Item Key="Menu_Language" Value=" _Languages " />
+  <Item Key="Menu_Language_MacVer" Value=" Languages " />
+  <Item Key="Menu_Language_SetEN" Value="English" />
+  <Item Key="Menu_Language_SetCN" Value="中文" />
+  <Item Key="Menu_Language_SetJP" Value="日本語" />
+  <Item Key="Menu_Language_SetKO" Value="한국어" />
+  <Item Key="Menu_Language_SetSP" Value="Español" />
+  <Item Key="Menu_Launcher_Minimize" Value="Minimize" />
+  <Item Key="Menu_Launcher_Hide" Value="Hide" />
+  <Item Key="Menu_Launcher_AboutCocos" Value="About cocos" />
+  <Item Key="Scene_Menu_File_ImportProject" Value="Import Project from v1.6" />
+  <Item Key="Resource_Menu_CreateSerialFrames" Value="Create SpriteSheet Animation" />
+  <Item Key="Resource_Menu_DuplicateFile" Value="Duplicate File" />
+  <Item Key="Menu_View_ShowAnchorPoint" Value="Show anchor point" />
+  <Item Key="Menu_View_HideAnchorPoint" Value="Hide anchor point" />
+  <Item Key="Command_Rename" Value="Rename" />
+  <Item Key="Command_Delete" Value="Delete" />
+  <Item Key="Command_Remove" Value="Remove" />
+  <Item Key="Command_Copy" Value="Copy" />
+  <Item Key="Command_Paste" Value="Paste" />
+  <Item Key="Command_Cut" Value="Cut" />
+  <Item Key="Command_Play" Value="Play" />
+  <Item Key="Command_Stop" Value="Stop" />
+  <Item Key="Command_Refresh" Value="Refresh" />
+  <Item Key="Command_ClearAll" Value="Clear All" />
+  <Item Key="Command_CreateMergeImage" Value="New Sprite Sheet" />
+  <Item Key="Command_EditMergeImage" Value="Edit Sprite Sheet" />
+  <Item Key="Command_ExportMergeImage" Value="Export Sprite Sheet" />
+  <Item Key="Command_CloseAll" Value="Close All" />
+  <Item Key="Command_SaveAll" Value="Save All" />
+  <Item Key="Command_CloseOther" Value="Close Others" />
+  <Item Key="Command_OpenDirectory" Value="Open Containing Folder" />
+  <Item Key="Command_Save" Value="Save" />
+  <Item Key="Command_NewFolder" Value="New Folder" />
+  <Item Key="ContexMenu_addPage" Value="Add Child Page" />
+  <Item Key="ContexMenu_addObject" Value="Add Object" />
+  <Item Key="ContexMenu_delObject" Value="Delete Object" />
+  <Item Key="ContexMenu_addComponent" Value="Add Component" />
+  <Item Key="ContexMenu_delComponent" Value="Delete Component" />
+  <Item Key="ContexMenu_addSprite" Value="Add Sprite" />
+  <Item Key="ContexMenu_editText" Value="Edit" />
+  <Item Key="ContexMenu_setButtonStyle" Value="Button Style" />
+  <Item Key="ContexMenu_selected" Value="Checked" />
+  <Item Key="ContexMenu_CheckboxStyle" Value="Checkbox Style" />
+  <Item Key="ContexMenu_BackgroundNormal" Value="Normal" />
+  <Item Key="ContexMenu_BackgroundPressed" Value="Pressed" />
+  <Item Key="ContexMenu_BackgroundDisabled" Value="Disabled" />
+  <Item Key="ContexMenu_CheckNormal" Value="Normal" />
+  <Item Key="ContexMenu_CheckDisabled" Value="Disabled" />
+  <Item Key="ContexMenu_SetImageResources" Value="Set Image File" />
+  <Item Key="ContexMenu_SetMapFile" Value="Set Tmx File" />
+  <Item Key="ContexMenu_SetLabelStyle" Value="AtlasLabel Style" />
+  <Item Key="ContexMenu_SetCustomFontRec" Value="Set Bitmap Font File" />
+  <Item Key="ContexMenu_SetLoadingBarStyle" Value="Progress Bar Style" />
+  <Item Key="ContexMenu_SetSliderStyle" Value="Slider Style" />
+  <Item Key="ContexMenu_BackgroundStyle" Value="Background" />
+  <Item Key="ContexMenu_InnerSliderStyle" Value="Inner Bar" />
+  <Item Key="ContexMenu_NodeNormalStyle" Value="Normal" />
+  <Item Key="ContexMenu_NormalStyle" Value="Normal" />
+  <Item Key="ContexMenu_NodePressedStyle" Value="Pressed" />
+  <Item Key="ContexMenu_PressedStyle" Value="Pressed" />
+  <Item Key="ContexMenu_NodeDisabledStyle" Value="Disabled" />
+  <Item Key="ContexMenu_DisabledStyle" Value="Disabled" />
+  <Item Key="ContexMenu_EditOccupyingText" Value="Edit Placeholder Text" />
+  <Item Key="ContexMenu_ShowCiphertext" Value="Password" />
+  <Item Key="ContexMenu_Playback" Value="Play" />
+  <Item Key="ContexMenu_SetSpriteFile" Value="Select Particle File" />
+  <Item Key="ContexMenu_SetArmatureFile" Value="Select Armature File" />
+  <Item Key="ContexMenu_PlayAudio" Value="Play" />
+  <Item Key="ContexMenu_StopPlay" Value="Stop" />
+  <Item Key="ContexMenu_SetAudioFile" Value="Select Audio File" />
+  <Item Key="ContextMenu_Clear" Value="Clear" />
+  <Item Key="ContextMenu_Ranking" Value="Sorting" />
+  <Item Key="Animation" Value="Animation" />
+  <Item Key="PropertyGridPad" Value="Properties" />
+  <Item Key="ResourcePad" Value="Resources" />
+  <Item Key="Output" Value="Output" />
+  <Item Key="ProjectResourcePad" Value="Canvas List" />
+  <Item Key="ComToolPad" Value="Widgets" />
+  <Item Key="ObjectPad" Value="Objects" />
+  <Item Key="Control_BaseObject" Value="Basic Objects" />
+  <Item Key="Control_3DControl" Value="3D Widgets" />
+  <Item Key="Control_ContainerControl" Value="Container" />
+  <Item Key="Control_Container" Value="Containers" />
+  <Item Key="Control_Custom" Value="Custom Widgets" />
+  <Item Key="Control_3DCustom" Value="3D Custom Widgets" />
+  <Item Key="Control_Other" Value="Other" />
+  <Item Key="Custom_Extend" Value="Custom Extensions" />
+  <Item Key="Control_Deprecated" Value="Deprecated Widgets" />
+  <Item Key="MainTool_AnimateModeState" Value="Animate Mode" />
+  <Item Key="MainTool_PoseModeState" Value="Pose Mode" />
+  <Item Key="MainTool_NomalState" Value="Normal" />
+  <Item Key="MainTool_Canvas" Value="Canvas" />
+  <Item Key="MainTool_Capacity" Value="Capacity" />
+  <Item Key="MainTool_ClockwiseRotation" Value="Clockwise 90°" />
+  <Item Key="MainTool_Contrarotate" Value="Counterclockwise 90°" />
+  <Item Key="Align_Center" Value="Align Center" />
+  <Item Key="Align_Left" Value="Align Left" />
+  <Item Key="Align_Right" Value="Align Right" />
+  <Item Key="Align_Top" Value="Align Top" />
+  <Item Key="Align_Bottom" Value="Align Bottom" />
+  <Item Key="Align_OriginCenter" Value="Align Origin" />
+  <Item Key="Align_HorizontalCenter" Value="Align Horizontal Center" />
+  <Item Key="Align_VerticalCenter" Value="Align Vertical Center" />
+  <Item Key="Horizontal_Equidistance" Value="Horizontal Distribution" />
+  <Item Key="Vertical_Equidistance" Value="Vertical Distribution" />
+  <Item Key="MainTool2DWidget_normal" Value="Default" />
+  <Item Key="MainTool2DWidget_CanvasOperation" Value="Move Canvas" />
+  <Item Key="MainTool_Color" Value="Color" />
+  <Item Key="MainTool_itemCustomSize" Value="Custom Size(*)" />
+  <Item Key="MainTool_Translate" Value="Move" />
+  <Item Key="MainTool_Rotate" Value="Rotate" />
+  <Item Key="MainTool_Rotation" Value="Rotation" />
+  <Item Key="MainTool_Scale" Value="Scale" />
+  <Item Key="MainTool_Move" Value="Move" />
+  <Item Key="MainTool_Center" Value="Change reference point to the center point of the combined object" />
+  <Item Key="MainTool_Pivot" Value="Change reference point to the center point of the selected object" />
+  <Item Key="MainTool_Global" Value="Change reference coordinates to world coordinates of canvas" />
+  <Item Key="MainTool_Local" Value="Change reference coordinates to local coordinates of objects" />
+  <Item Key="StatusBar_ConfigIncomplete" Value="Current environment configuration is not complete.&#xA;Click to enter [Preferences]." />
+  <Item Key="UI_AnimationList" Value="Animation List" />
+  <Item Key="UI_KeyFrame" Value="Key Frame" />
+  <Item Key="UIAnimation_ToolTip_Play" Value="Play/Stop" />
+  <Item Key="UIAnimation_ToolTip_Pause" Value="Pause" />
+  <Item Key="UIAnimation_ToolTip_Continue" Value="Continue" />
+  <Item Key="UIAnimation_ToolTip_FirstFrame" Value="First Frame" />
+  <Item Key="UIAnimation_ToolTip_LastFrame" Value="Last Frame" />
+  <Item Key="UIAnimation_ToolTip_NextFrame" Value="Next Frame" />
+  <Item Key="UIAnimation_ToolTip_PreviousFrame" Value="Previous Frame" />
+  <Item Key="UIAnimation_ToolTip_Loop" Value="Loop" />
+  <Item Key="UIAnimation_ToolTip_PlayOnce" Value="Play Once" />
+  <Item Key="UIAnimation_Text_Frame" Value="Frame" />
+  <Item Key="UIAnimation_Text_Loop" Value="Loop" />
+  <Item Key="UIAnimation_Text_No" Value="Selected Frame: " />
+  <Item Key="UIAnimation_ToolTip_KeyFrame" Value="Record Key Frame" />
+  <Item Key="UIAnimation_Text_Interval" Value="Frame Interval" />
+  <Item Key="UIAnimation_Text_Minute" Value="Seconds" />
+  <Item Key="UIAnimation_ToolTip_MousePosition" Value="Mouse Position:No." />
+  <Item Key="UIAnimation_Content_PlaySpeed" Value="FPS:" />
+  <Item Key="UIAnimation_Content_PlaySpeedUnit" Value="Frame/Second" />
+  <Item Key="UIAnimation_MenuText_AddAnimation" Value="Add Animation" />
+  <Item Key="UIAnimation_MenuText_DeleAnimation" Value="Delete Animation" />
+  <Item Key="UIAnimation_MenuText_DelNode" Value="Delete Node" />
+  <Item Key="UIAnimation_MenuText_AddFrame" Value="Add Frame" />
+  <Item Key="UIAnimation_MenuText_DelFrame" Value="Delete Frame" />
+  <Item Key="UIAnimation_MenuText_checkOnion" Value="Onion Skin" />
+  <Item Key="UIAnimation_Tooltip_checkOnion" Value="It works when you enable &quot;Begin to record frame&quot;." />
+  <Item Key="UIAnimation_MenuText_labFront" Value=" Pre " />
+  <Item Key="UIAnimation_MenuText_labBack" Value=" Fol " />
+  <Item Key="UIAnimation_MenuText_addFrameToOnion" Value="Always Show this Frame" />
+  <Item Key="UIAnimation_MenuText_wrongName" Value="The name already exists. Please use a different name." />
+  <Item Key="UIAnimation_MenuText_NullName" Value="Name can not be set to empty. Please enter a valid name." />
+  <Item Key="UIAnimation_MenuText_CopyFrame" Value="Copy Frame" />
+  <Item Key="UIAnimation_MenuText_PasteFrame" Value="Paste Frame" />
+  <Item Key="UIAnimation_MenuText_CutFrame" Value="Cut Frame" />
+  <Item Key="UIAnimation_MenuText_AutoKey" Value="Begin to record frame" />
+  <Item Key="UIAnimation_ToolTip_AutoKey" Value="When selected, key frame is automatically recorded when node properties change.&#xA;When unchecked, key frames are added manually." />
+  <Item Key="UIAnimation_MenuText_Duration" Value="Spacing" />
+  <Item Key="UIAnimation_AppendBeginFrame" Value="Append the first frame as end frame" />
+  <Item Key="UIAnimation_MenuText_Begin" Value="Start" />
+  <Item Key="UIAnimation_ZoomTimeline" Value="Zoom Timeline" />
+  <Item Key="UIAnimation_AdjustTimeline" Value="Adjust Timeline Zoom" />
+  <Item Key="Animation_Menu_View_List" Value="Animation List" />
+  <Item Key="Animation_AnimationListMenu_AddAnimation" Value="Add Animation" />
+  <Item Key="Animation_AnimationListMenu_CopyAnimation" Value="Copy Animation" />
+  <Item Key="Animation_AnimationListMenu_DeleAnimation" Value="Delete Animation" />
+  <Item Key="AnimationListMenu_AnimationList" Value="Animation List" />
+  <Item Key="AnimationListMenu_ManageAnimationList" Value="Manage Animation List" />
+  <Item Key="Animation_StratFrame" Value="Start Frame" />
+  <Item Key="Animation_EndFrame" Value="End Frame" />
+  <Item Key="Animation_SingleFrame" Value="Single Frame" />
+  <Item Key="Animation_InnerAction" Value="Nested Action" />
+  <Item Key="Animation_Type" Value="Type" />
+  <Item Key="Animation_BoneTreetMenu_AddNode" Value="Add Node" />
+  <Item Key="Animation_BoneTreetMenu_CopyNode" Value="Copy Node" />
+  <Item Key="Animation_BoneTreetMenu_DeleteNode" Value="Delete Node" />
+  <Item Key="Animation_BoneTreetMenu_NodeMoveUp" Value="Move Up" />
+  <Item Key="Animation_BoneTreetMenu_NodeMoveDown" Value="Move Down" />
+  <Item Key="Animation_BoneTreetMenu_NodeMoveTop" Value="Move to the Top" />
+  <Item Key="Animation_BoneTreetMenu_NodeMoveBottom" Value="Move to the Bottom" />
+  <Item Key="Animation_LineControl_SelectFrame" Value="Select Frame" />
+  <Item Key="Animation_LineControl_Uncheck" Value="Deselect Frame " />
+  <Item Key="Animation_LineControl_AddFrame" Value="Add Frame " />
+  <Item Key="Animation_LineControl_DeleteFrame" Value="Delete Frame" />
+  <Item Key="Animation_LineControl_ShowFrame" Value="Show Frame" />
+  <Item Key="Animation_LineControl_HideFrame" Value="Hide Frame" />
+  <Item Key="Animation_LineControl_CopyFrame" Value="Copy Frame" />
+  <Item Key="Animation_LineControl_PasteFrame" Value="Paste Frame" />
+  <Item Key="Animation_LineControl_TweenFrame" Value="Tween Frame" />
+  <Item Key="Animation_LineControl_CancelTweenFrame" Value="Delete Tween Frame" />
+  <Item Key="Animation_LineControl_SelectAllFrame" Value="Select All Frame" />
+  <Item Key="Animation_LineControl_ReverseFrame" Value="Invert Selection" />
+  <Item Key="Animation_DrawCurve_CustomCurve" Value="Custom Curve" />
+  <Item Key="Animation_DrawCurve_DefaultCurve" Value="Default" />
+  <Item Key="Animation_DrawCurve_FrameCurveSetting" Value="Frame Curve Settings" />
+  <Item Key="Skeleton_Binding" Value="Binding" />
+  <Item Key="Skeleton_Unbinding" Value="Unbinding" />
+  <Item Key="Skeleton_ViewTooltip" Value="Skeleton View (T)&#xA;Quick view skeleton hierarchy, edit skeleton hierarchy and parent skeleton" />
+  <Item Key="Skeleton_SkeletonView" Value="Skeleton View" />
+  <Item Key="Skeleton_BoneNum" Value="Sum of Bone：{0}" />
+  <Item Key="Skeleton_SkinNum" Value="Sum of Skin：{0}" />
+  <Item Key="Skeleton_HideSkin" Value="Hide Skin" />
+  <Item Key="Skeleton_HideSkeleton" Value="Hide Skeleton" />
+  <Item Key="Skeleton_BoneSkinBlendInfo" Value="Skin's blend is the same as its bone's" />
+  <Item Key="Skeleton_BoneAlreadyExist" Value="Failed to rename. A bone named {0} already exists." />
+  <Item Key="Skeleton_CreateBone" Value="Create Bone" />
+  <Item Key="Skeleton_UnBindingSuccess" Value="UnBind Success" />
+  <Item Key="Display_BoneObject" Value="Bone" />
+  <Item Key="Display_SkeletonObject" Value="Skeleton" />
+  <Item Key="Skeleton_CreateFlagGradeBone" Value="Create Unbound Bones" />
+  <Item Key="Display_Particle_Duration" Value="Duration" />
+  <Item Key="Display_Particle_PositionX" Value="Emitter PosX Varialbe" />
+  <Item Key="Display_Particle_PositionY" Value="Emitter PosY Varialbe" />
+  <Item Key="Display_Particle_ParticleNum" Value="Particle Num" />
+  <Item Key="Display_Particle_Angle" Value="Angle" />
+  <Item Key="Display_Particle_AngleVarialbe" Value="Angle Varialbe" />
+  <Item Key="Display_Particle_EmiiterMode" Value="Mode" />
+  <Item Key="Display_Particle_Speed" Value="Speed" />
+  <Item Key="Display_Particle_SpeedVarialbe" Value="Speed Varialbe" />
+  <Item Key="Display_Particle_GravityX" Value="Gravity X" />
+  <Item Key="Display_Particle_GravityY" Value="Gravity Y" />
+  <Item Key="Display_Particle_SpeedVar" Value="Radial Accel" />
+  <Item Key="Display_Particle_SpeedVarvarialbe" Value="Radial Accel Varialbe" />
+  <Item Key="Display_Particle_TangentialAccel" Value="Tangential Accel" />
+  <Item Key="Display_Particle_TangentialAccelVarialbe" Value="Tangential Accel Varialbe" />
+  <Item Key="Display_Particl_Life" Value="Life" />
+  <Item Key="Display_Particle_LeftVarialbe" Value="Life Varialbe" />
+  <Item Key="Display_Particle_StartSize" Value="Initial Size" />
+  <Item Key="Display_Particle_StartSizeVarialbe" Value="Initial Size Varialbe" />
+  <Item Key="Display_Particle_EndSize" Value="Ending Size" />
+  <Item Key="Display_Particle_EndSizeVarialbe" Value="Ending Size Varialbe" />
+  <Item Key="Display_Particle_StartRotationAngle" Value="Initial Angle" />
+  <Item Key="Display_Particle_StartRotationAngleVarialbe" Value="Initial Angle Varialbe" />
+  <Item Key="Display_Particle_EndRotationAngle" Value="Ending Angle" />
+  <Item Key="Display_Particle_EndRotationAngleVarialbe" Value="Ending Angle Varialbe" />
+  <Item Key="Display_Particle_StartColor" Value="Initial Color" />
+  <Item Key="Display_Particle_StartColorAlpha" Value="Initial Alpha" />
+  <Item Key="Display_Particle_StartColorRVarialbe" Value="Initial R Varialbe" />
+  <Item Key="Display_Particl_StartColorGVarialbe" Value="Initial G Variable" />
+  <Item Key="Display_Particle_StartColorBVarialbe" Value="Initial B Variable" />
+  <Item Key="Display_Particle_StartColorAVarialbe" Value="Initial A Variable" />
+  <Item Key="Display_Particle_EndColor" Value="Ending Color" />
+  <Item Key="Display_Particle_EndColorAlpha" Value="Ending Alpha" />
+  <Item Key="Display_Particle_EndColorRVarialbe" Value="Ending R Varialbe" />
+  <Item Key="Display_Particle_EndColorGVarialbe" Value="Ending G Varialbe" />
+  <Item Key="Display_Particle_EndColorBVarialbe" Value="Ending B Varialbe" />
+  <Item Key="Display_Particle_EndColorAVarialbe" Value="Ending A Varialbe" />
+  <Item Key="Display_Particle_SourceBlend" Value="Source Blend" />
+  <Item Key="Display_Particle_DestBlend" Value="Destination Blend" />
+  <Item Key="Display_Particle_TextureName" Value="Texture Name" />
+  <Item Key="Group_Routine" Value="General" />
+  <Item Key="Display_Alias" Value="Name" />
+  <Item Key="Display_PositionType" Value="Dock" />
+  <Item Key="Display_Position" Value="Position" />
+  <Item Key="Display_Fov" Value="Field of View" />
+  <Item Key="Display_ViewSize" Value="Viewport Size" />
+  <Item Key="Display_ClipPlane" Value="Clipping Planes" />
+  <Item Key="Display_CameraFlag" Value="Camera Mask" />
+  <Item Key="Display_Camera_Flag" Value="Camera Flag" />
+  <Item Key="Group_SkyBox" Value="SkyBox" />
+  <Item Key="Display_SkyBox_Enabled" Value="Display" />
+  <Item Key="Display_SkyBox_Left" Value="Left" />
+  <Item Key="Display_SkyBox_Right" Value="Right" />
+  <Item Key="Display_SkyBox_Up" Value="Up" />
+  <Item Key="Display_SkyBox_Down" Value="Down" />
+  <Item Key="Display_SkyBox_Front" Value="Front" />
+  <Item Key="Display_SkyBox_Back" Value="Back" />
+  <Item Key="RotationX" Value="X" />
+  <Item Key="RotationY" Value="Y" />
+  <Item Key="RotationZ" Value="Z" />
+  <Item Key="Axis3D_X" Value="X" />
+  <Item Key="Axis3D_Y" Value="Y" />
+  <Item Key="Axis3D_Z" Value="Z" />
+  <Item Key="Display_Move" Value="Move" />
+  <Item Key="Display_Rotate" Value="Rotate" />
+  <Item Key="Display_ScaleOp" Value="Scale" />
+  <Item Key="Display_Model_File" Value="Model File" />
+  <Item Key="Display_Particle_File" Value="Particle File" />
+  <Item Key="Group_Advanced" Value="Advanced" />
+  <Item Key="Property_Object" Value="{0} Objects" />
+  <Item Key="Property_ManyObject" Value="Many Objects" />
+  <Item Key="FondREsource" Value="Font File" />
+  <Item Key="BeginObacity" Value="Initial opacity" />
+  <Item Key="EndObacity" Value="Ending opacity" />
+  <Item Key="LogoStyle" Value="Logo Style" />
+  <Item Key="LeftEdge" Value="Left" />
+  <Item Key="RightEdge" Value="Right" />
+  <Item Key="TopEdge" Value="Top" />
+  <Item Key="BottomEdge" Value="Bottom" />
+  <Item Key="Display_ImageSize" Value="Image Size" />
+  <Item Key="Display_NearPlane" Value="Near" />
+  <Item Key="Display_FarPlane" Value="Far" />
+  <Item Key="Display_USpeed" Value="U Speed" />
+  <Item Key="Display_VSpeed" Value="V Speed" />
+  <Item Key="Display_RowNumber" Value="Rows" />
+  <Item Key="Display_ColumnNumber" Value="Columns" />
+  <Item Key="Display_FramesPerSecond" Value="Frames Per Second" />
+  <Item Key="Display_ResourceWidth" Value="Width" />
+  <Item Key="Display_ResourceHeight" Value="Height" />
+  <Item Key="Display_AnimationSwitch" Value="UV Animation Switch" />
+  <Item Key="Display_AnimationSpeed" Value="Animation Speed" />
+  <Item Key="Display_TextureSwitch" Value="Texture Animation Switch" />
+  <Item Key="Display_TextureRowAndColumn" Value="Row &amp; Column" />
+  <Item Key="Display_Framerate" Value="Frame Rate" />
+  <Item Key="Display_BillBoardMode" Value="Facing" />
+  <Item Key="SLICE_BILLBOARD_NONE" Value="Default Facing" />
+  <Item Key="SLICE_BILLBOARD_VIEW_POINT_ORIENTED" Value="Facing the camera point" />
+  <Item Key="SLICE_BILLBOARD_VIEW_PLANE_ORIENTED" Value="Facing the camera plane" />
+  <Item Key="Display_Visible" Value="Visible" />
+  <Item Key="Display_CascadeColor" Value="Cascade Color" />
+  <Item Key="Display_CascadeAlpha" Value="Cascade Alpha" />
+  <Item Key="Display_Show_Hide" Value="Visible" />
+  <Item Key="Display_Rotation" Value="Rotation" />
+  <Item Key="Display_RotationSkew" Value="Skew" />
+  <Item Key="Display_RotationSkewX" Value="X Skew" />
+  <Item Key="Display_RotationSkewY" Value="Y Skew" />
+  <Item Key="Display_Scale" Value="Scale" />
+  <Item Key="Display_Target" Value="Tag" />
+  <Item Key="Display_Name" Value="Name" />
+  <Item Key="Display_File" Value="File" />
+  <Item Key="Display_ImageResource" Value="Image Resource" />
+  <Item Key="Display_UISliderButtonAnchor" Value="Slider Button Anchor" />
+  <Item Key="Group_BackgroundMusic" Value="Background Music" />
+  <Item Key="Display_Volome" Value="Volume" />
+  <Item Key="Display_MusicFile" Value="Music File" />
+  <Item Key="Display_PlayControl" Value="Playback Control" />
+  <Item Key="Display_CollisionZone" Value="Collision Zone" />
+  <Item Key="Group_Armature" Value="Armature" />
+  <Item Key="Display_ArmatureFile" Value="Armature File" />
+  <Item Key="Group_Particle" Value="Particle" />
+  <Item Key="Display_ParticleFile" Value="Particle File" />
+  <Item Key="MainTool_Preview" Value="Preview" />
+  <Item Key="Display_ParticlePlay" Value="Particle Control" />
+  <Item Key="Group_TmxMap" Value="Tmx Map" />
+  <Item Key="Display_MapFile" Value="Map File" />
+  <Item Key="Group_Property" Value="Property" />
+  <Item Key="Display_PropertyFile" Value="Property File" />
+  <Item Key="Group_Audio" Value="Audio" />
+  <Item Key="Display_AudioEnum" Value="Audio Type" />
+  <Item Key="Display_Loop" Value="Loop" />
+  <Item Key="Display_AudioFile" Value="Audio File" />
+  <Item Key="Display_AudioPlay" Value="Playback" />
+  <Item Key="Group_Sprite" Value="Sprite" />
+  <Item Key="Display_SpriteFile" Value="Sprite File" />
+  <Item Key="Display_SpriteRect" Value="Clipping Regions" />
+  <Item Key="Display_SpriteScale" Value="Scale Value" />
+  <Item Key="Display_Component_ProjectElement" Value="Project Node" />
+  <Item Key="Display_Component_Map" Value="TileMap" />
+  <Item Key="Display_Component_LightType" Value="Light Type" />
+  <Item Key="Display_Component_LightFlag" Value="Light Flag" />
+  <Item Key="Display_Component_LightMask" Value="Light Mask" />
+  <Item Key="Display_Component_Intensity" Value="Intensity" />
+  <Item Key="Display_Component_LightEnable" Value="Enable Light" />
+  <Item Key="Display_Component_Range" Value="Range" />
+  <Item Key="Display_Component_Angle" Value="Angle" />
+  <Item Key="Display_Component_Map_Description" Value="Create a TileMap (Supports .tmx format)." />
+  <Item Key="Display_Component_Particle" Value="Particle" />
+  <Item Key="Display_Component_Particle_Description" Value="Create a Particle (Supports .plist format)." />
+  <Item Key="Display_Component_Armature" Value="Armature" />
+  <Item Key="Display_Component_Armature_Description" Value="Create a Armature (Supports .ExportJson exported from Cocos Studio 1.x Animation Editor)." />
+  <Item Key="Dialog_ImportResource_ErrorMessage" Value="Local resource does not exist, or cannot be read." />
+  <Item Key="Dialog_PlistErrorMessage" Value="The wrong plist file is used." />
+  <Item Key="Display_Component_Property" Value="Custom Properties" />
+  <Item Key="Display_Auto_Play" Value="Auto Play" />
+  <Item Key="Display_Component_Audio" Value="Audio" />
+  <Item Key="Display_Component_Audio_Description" Value="Create a Sound (Supports wav, mp3)." />
+  <Item Key="Display_Component_Sprite" Value="Sprite" />
+  <Item Key="Display_Component_Sprite_Description" Value="Create a Sprite (Supports various image formats)." />
+  <Item Key="Display_Component_Sprite3D" Value="Model" />
+  <Item Key="Display_Component_Slice3D" Value="Billboard" />
+  <Item Key="Display_Component_Light3D" Value="Light" />
+  <Item Key="Display_Component_Light3D_Description" Value="3D Scene lighting effects, support directional light, point, spot, ambient light." />
+  <Item Key="Display_Component_Sprite3D_Description" Value="Models are the fundamental objects in 3D world (Supports csb/obj files)." />
+  <Item Key="Display_Component_Node3D" Value="Node" />
+  <Item Key="Display_Component_Node3D_Description" Value="Create a node, can use as a container." />
+  <Item Key="Display_Component_Particle3D" Value="3D Particle" />
+  <Item Key="Display_Component_Particle3D_Description" Value="Create a Particle(Supports PU files)." />
+  <Item Key="Display_Component_Camera" Value="Camera" />
+  <Item Key="Display_Component_Camera_Description" Value="Cameras are the devices that capture and display the world to the players. You can have more than one camera in one scene." />
+  <Item Key="Display_Component_Canvas" Value="Canvas" />
+  <Item Key="Display_Component_Entity" Value="Node" />
+  <Item Key="Display_Component_Entity_Description" Value="Create a Node, can use as a container." />
+  <Item Key="Display_Component_Primitive" Value="PrimitiveControl" />
+  <Item Key="Display_Component_Logic" Value="C++LogicControl." />
+  <Item Key="Display_Component_Group_General" Value="General" />
+  <Item Key="Display_Component_Group_Custom" Value="Custom Widgets" />
+  <Item Key="Display_Component_UICheckBox" Value="CheckBox" />
+  <Item Key="Display_Component_UICheckBox_Description" Value="Checkbox is a basic widget that can be checked or unchecked, and multiple selection is available." />
+  <Item Key="Display_Component_UIImageView" Value="Image" />
+  <Item Key="Display_Component_UIImageView_Description" Value="Create a Image that supports 9 slice." />
+  <Item Key="Display_Component_UILable" Value="Label" />
+  <Item Key="Display_Component_UILable_Description" Value="Create a Text, can set the font, size, alignment, and other style or attributes." />
+  <Item Key="Display_Component_UILableAtlas" Value="AtlasLabel" />
+  <Item Key="Display_Component_UILableAtlas_Description" Value="Create an AtlasLabel. The sprite sheet for AtlasLabel has to contain &quot;./0123456789&quot;." />
+  <Item Key="Display_Component_UIListview" Value="Listview" />
+  <Item Key="Display_Component_Container" Value="Container" />
+  <Item Key="Display_Component_UIListview_Description" Value="Create a ListView, supporting scroll direction and spacing preference settings." />
+  <Item Key="Display_Component_UIPageView" Value="PageView" />
+  <Item Key="Display_Component_UIPageView_Description" Value="Create a PageView." />
+  <Item Key="Display_Component_UIPanel" Value="Panel" />
+  <Item Key="Display_Component_UIPanel_Description" Value="Create a Panel, supporting preferences settings such as clipping, filling color and inserting background pictures." />
+  <Item Key="Display_Component_UIScrollview" Value="ScrollView" />
+  <Item Key="Display_Component_UIScrollview_Description" Value="Create a ScrollView, supporting scroll area and scroll direction settings." />
+  <Item Key="Display_Component_UISlider" Value="Slider" />
+  <Item Key="Display_Component_UISlider_Description" Value="Create a Slider." />
+  <Item Key="Display_Component_UITextArea" Value="TextArea" />
+  <Item Key="Display_Component_UIField" Value="TextField" />
+  <Item Key="Display_Component_UIField_Description" Value="Create a TextField. It allows users to type texts, supporting font, size, password style and password length settings." />
+  <Item Key="Display_Component_UILoadingBar" Value="ProgressBar" />
+  <Item Key="Display_Component_UILoadingBar_Description" Value="Create a ProgressBar to show how far a task has progressed, supporting format settings." />
+  <Item Key="Display_Component_UILableBMFont" Value="BitmapLabel" />
+  <Item Key="Display_Component_UILableBMFont_Description" Value="Create a BitmapFont." />
+  <Item Key="Display_Component_UINodeContainer" Value="NodeContainer" />
+  <Item Key="Scene_Menucontext_ResetDefault" Value="Reset" />
+  <Item Key="Menucontext_ClearFiles" Value="Clear" />
+  <Item Key="Display_Component_UIButton" Value="Button" />
+  <Item Key="Display_Component_UIButton_Description" Value="Create a Button. It contains three states, normal, pressed and disabled." />
+  <Item Key="Group_Feature" Value="Feature" />
+  <Item Key="Display_State" Value="Display State" />
+  <Item Key="Display_Component_UIPackerModel" Value="SpriteSheet" />
+  <Item Key="Display_ExportType" Value="Type" />
+  <Item Key="Display_SortAlgorithm" Value="Sorting Algorithm" />
+  <Item Key="Display_MaxSize" Value="Maximum Size" />
+  <Item Key="Display_AllowRotation" Value="Allow Rotation" />
+  <Item Key="Display_AllowAnySize" Value="Allow Any Size" />
+  <Item Key="Display_AllowTrim" Value="Allow Clipping" />
+  <Item Key="Display_PicturePadding" Value="Spacing" />
+  <Item Key="Display_Flip" Value="Flip" />
+  <Item Key="Display_VFlip" Value="Flip Vertical" />
+  <Item Key="Display_HFlip" Value="Flip Horizontal" />
+  <Item Key="Display_HAlign" Value="H-Align" />
+  <Item Key="Display_VAlign" Value="V-Align" />
+  <Item Key="Display_NormalState" Value="Normal" />
+  <Item Key="Display_BtnDown" Value="Pressed" />
+  <Item Key="Display_Disable" Value="Disabled" />
+  <Item Key="Display_MakeDisabled" Value="Disable" />
+  <Item Key="Display_Select_UnSelect" Value="Selected" />
+  <Item Key="Display_NormalImage" Value="Normal Background" />
+  <Item Key="Display_SelectImage" Value="Check Mark " />
+  <Item Key="Display_UnSelectImage" Value="UnCheck Mark" />
+  <Item Key="Display_MarkResource" Value="Logo Style" />
+  <Item Key="Display_RenderLevel" Value="Render Layer" />
+  <Item Key="Display_CanUse" Value="Touchable" />
+  <Item Key="Display_ColorBlend" Value="Color Blend" />
+  <Item Key="Display_Capacity" Value="Opacity" />
+  <Item Key="Display_FontStyleOne" Value="SonTypeface" />
+  <Item Key="Display_FontStyleTwo" Value="BoldFace" />
+  <Item Key="Display_FontStyleThree" Value="MicrosoftYaHeiFont" />
+  <Item Key="Display_FontStyle" Value="Font Style" />
+  <Item Key="Display_FontFile" Value="Font File" />
+  <Item Key="Display_FontSize" Value="Font Size" />
+  <Item Key="Display_Animation" Value="Animation" />
+  <Item Key="Display_Text" Value="Text" />
+  <Item Key="Display_TextScale" Value="Text Scale" />
+  <Item Key="Display_TagImage" Value="Atlas" />
+  <Item Key="Display_LabelFirstChar" Value="First Char" />
+  <Item Key="Display_LabelCharWidth" Value="Character Width" />
+  <Item Key="Display_LabelCharHeight" Value="Character Height" />
+  <Item Key="Display_ImageResources" Value="Background" />
+  <Item Key="Display_Progress" Value="Progress" />
+  <Item Key="Display_ProgressType" Value="Progress Type" />
+  <Item Key="Display_PannelWidth" Value="Panel Width" />
+  <Item Key="Display_PannelHeight" Value="Panel Height" />
+  <Item Key="Display_Clip" Value="Clipping" />
+  <Item Key="Display_ClipName" Value="Clipping" />
+  <Item Key="Display_Width" Value="Width" />
+  <Item Key="Display_Height" Value="Height" />
+  <Item Key="Display_BackgroundImage" Value="Background" />
+  <Item Key="Display_NodeResource" Value="Node Style" />
+  <Item Key="Display_NodeNormalState" Value="Normal State" />
+  <Item Key="Display_NodePressDownState" Value="Pressed State" />
+  <Item Key="Display_NodeDisableState" Value="Disabled State" />
+  <Item Key="Display_SliderProgress" Value="Slider Progress" />
+  <Item Key="Display_AnimationName" Value="Animation List" />
+  <Item Key="Display_FNTFile" Value="Font File" />
+  <Item Key="Display_AnchorPoint" Value="Anchor Point" />
+  <Item Key="DisPlay_AreaWidth" Value="Display Area Width" />
+  <Item Key="DisPlay_AreaHeight" Value="Display Area Height" />
+  <Item Key="Description_ScrollAreaWidth" Value="Scroll Area" />
+  <Item Key="Description_SlipDirection" Value="Scroll Direction" />
+  <Item Key="Description_ScrollDirection" Value="Scroll Direction" />
+  <Item Key="Display_TextColor" Value="Text Color" />
+  <Item Key="Category_AdvancedProperties" Value="Advanced Properties" />
+  <Item Key="Display_InertiaDuration" Value="Inertia Duration" />
+  <Item Key="Display_InertiaInchingFrequency" Value="Frequency" />
+  <Item Key="Display_OpenResilience" Value="Bounce Back" />
+  <Item Key="Display_Duration" Value="Duration" />
+  <Item Key="Display_ShowProgressBar" Value="Show Progress Bar" />
+  <Item Key="Display_InternalProgressBar" Value="Inner Bar Image" />
+  <Item Key="Display_SupportFileTypes" Value="Supported File Types: {0}" />
+  <Item Key="Display_Length" Value="Length" />
+  <Item Key="Display_FeatherName" Value="Parent" />
+  <Item Key="Display_TweenFrame" Value="Tween Frame" />
+  <Item Key="Display_FrameInterval" Value="Frame Interval" />
+  <Item Key="Display_LayerIndex" Value="Layer Index" />
+  <Item Key="Display_ExportProject" Value="Export Project" />
+  <Item Key="Display_ImportTo" Value="Import To" />
+  <Item Key="Display_CropSimulation" Value="Clipping Simulation" />
+  <Item Key="Display_Coordinate" Value="Position" />
+  <Item Key="Display_FrameEvents" Value="Frame Event" />
+  <Item Key="Display_FrameVisiable" Value="Visibility of Frames" />
+  <Item Key="Display_RenderResources" Value="Render" />
+  <Item Key="Display_Lock" Value="Lock" />
+  <Item Key="States_Position" Value="Position" />
+  <Item Key="Set_password" Value="SetPassword" />
+  <Item Key="Open_password" Value="Password" />
+  <Item Key="Character_Style" Value="Character Style" />
+  <Item Key="Length_limit" Value="Length Limit" />
+  <Item Key="Placeholder_Text" Value="Place Holder" />
+  <Item Key="Group_PosAndSize" Value="Position &amp; Size" />
+  <Item Key="Display_TweenEasing" Value="Easing" />
+  <Item Key="Display_SizePercentage" Value="Size Percentage" />
+  <Item Key="Display_SizeScale" Value="Size Scale" />
+  <Item Key="Display_CascadeColorValue" Value="Cascade Color Value" />
+  <Item Key="Display_CascadeTransparency" Value="Cascade Transparency" />
+  <Item Key="Adapt_Screen" Value="Adaptive Resolution" />
+  <Item Key="Display_SetBoneEndPoint" Value="Set Bone Length" />
+  <Item Key="Display_BoneLength" Value="Bone Length" />
+  <Item Key="Display_BoneColor" Value="Coloured Mark" />
+  <Item Key="Display_IsRunAction" Value="Play" />
+  <Item Key="Display_Position3D" Value="Position" />
+  <Item Key="Single_color_set" Value="Color" />
+  <Item Key="Start_color_set" Value="Start Color" />
+  <Item Key="End_color_set" Value="End Color" />
+  <Item Key="Changed_Direction" Value="Direction" />
+  <Item Key="Background_color_transparency" Value="Opacity" />
+  <Item Key="Fill_color" Value="Fill" />
+  <Item Key="Color_none" Value="None" />
+  <Item Key="Color_solid" Value="Solid" />
+  <Item Key="Color_gradient" Value="Gradient" />
+  <Item Key="Color_TitleText" Value="Select Custom Color" />
+  <Item Key="Color_buttonOK" Value="Select" />
+  <Item Key="Animation_Blend_Blend" Value="Blend" />
+  <Item Key="Animation_Blend_MixSource" Value="Blend SRC" />
+  <Item Key="Animation_Blend_MixAim" Value="Blend DST" />
+  <Item Key="Animation_Blend_Normal" Value="Normal" />
+  <Item Key="Animation_Blend_Layout" Value="Layout" />
+  <Item Key="Animation_Blend_ChangeDark" Value="Dark" />
+  <Item Key="Animation_Blend_Multiply" Value="Multiply" />
+  <Item Key="Animation_Blend_ChangeLight" Value="Light Up" />
+  <Item Key="Animation_Blend_ColorFilter" Value="Color Filter" />
+  <Item Key="Animation_Blend_SurperPosition" Value="Surper Position" />
+  <Item Key="Animation_Blend_HighLight" Value="High Light" />
+  <Item Key="Animation_Blend_Increase" Value="Increase" />
+  <Item Key="Animation_Blend_Minus" Value="Minus" />
+  <Item Key="Animation_Blend_Difference" Value="Difference" />
+  <Item Key="Animation_Blend_Reverse" Value="Reverse" />
+  <Item Key="Animation_Blend_Alpha" Value="Alpha" />
+  <Item Key="Animation_Blend_Clear" Value="Clear" />
+  <Item Key="grid_sudoku" Value="Size" />
+  <Item Key="Open_sudoku" Value="Enable 9-slice" />
+  <Item Key="Control_width" Value="Width" />
+  <Item Key="Control_height" Value="Height" />
+  <Item Key="Control_mode" Value="Auto Adjust" />
+  <Item Key="Description_BasemapSudoku" Value="Basemap 9-slice" />
+  <Item Key="Display_BasemapSudoku" Value="Basemap 9-slice" />
+  <Item Key="Description_InternalSudoku" Value="Internal 9-slice" />
+  <Item Key="Display_InternalSudoku" Value="Internal 9-slice" />
+  <Item Key="Display_Sudoku" Value="9-slice" />
+  <Item Key="Display_Scale9Notification" Value="Disabled while background has not been set" />
+  <Item Key="SkyBoxError_FullNum" Value="Please assign 6 square textures to all the 6 sides of skybox to have a perfect display." />
+  <Item Key="SkyBoxError_Size" Value="Please select square textures in the same size." />
+  <Item Key="SkyBoxError_Format" Value="Please select textures with same filename extension." />
+  <Item Key="SkyBoxError_Encoded" Value="Please select textures with same coding format." />
+  <Item Key="Property_Preview" Value="Preview" />
+  <Item Key="Property_ParentPercentage" Value="Relative percentage of parent container" />
+  <Item Key="Property_PixelValue" Value="Pixel" />
+  <Item Key="Property_Pixel" Value="Pixel" />
+  <Item Key="Property_ImportFile" Value="Import File" />
+  <Item Key="Property_ImportMap" Value="TileMap File" />
+  <Item Key="Property_ImportParticle" Value="Particle File" />
+  <Item Key="Property_ImportAudio" Value="Sound File" />
+  <Item Key="Property_ImportFont" Value="Font file" />
+  <Item Key="Property_SetImage" Value="Set Image" />
+  <Item Key="BOTTOM_LEFT" Value="Bottom Left" />
+  <Item Key="BOTTOM_RIGHT" Value="Bottom Right" />
+  <Item Key="TOP_LEFT" Value="Top Left" />
+  <Item Key="TOP_RIGHT" Value="Top Right" />
+  <Item Key="Left_To_Right" Value="Left to right" />
+  <Item Key="Right_To_Left" Value="Right to left" />
+  <Item Key="HT_Left" Value="Align Left" />
+  <Item Key="HT_Center" Value="Center" />
+  <Item Key="HT_Right" Value="Align Right" />
+  <Item Key="VT_Top" Value="Top Align" />
+  <Item Key="VT_Center" Value="Middle Align" />
+  <Item Key="VT_Bottom" Value="Bottom Align" />
+  <Item Key="Vertical" Value="Vertical" />
+  <Item Key="Horizontal" Value="Horizontal" />
+  <Item Key="Vertical_Horizontal" Value="Vertical and Horizontal" />
+  <Item Key="CallBack_Method" Value="Method" />
+  <Item Key="CallBack_None" Value="(None)" />
+  <Item Key="CallBack_ClassName" Value="Custom Class" />
+  <Item Key="Custom_UserData" Value="User Data" />
+  <Item Key="Property_CopyPhyDir" Value="Copy the File Path" />
+  <Item Key="Property_CopyFileName" Value="Copy File Name" />
+  <Item Key="Property_SkewHorizontal" Value="Skew Horizontal" />
+  <Item Key="Property_SkewVertical" Value="Skew Vertical" />
+  <Item Key="Property_Reset" Value="Reset" />
+  <Item Key="Property_ColorPicker" Value="Color Picker" />
+  <Item Key="Property_PinAndSizing" Value="Pin &amp; Sizing" />
+  <Item Key="Property_CustomSize" Value="Custom Size" />
+  <Item Key="Property_ResetSize" Value="Reset Size" />
+  <Item Key="Property_SceneFile" Value="Scene File" />
+  <Item Key="Property_LayerFile" Value="Layer File" />
+  <Item Key="Property_NodeFile" Value="Node File" />
+  <Item Key="Property_SkeletonFile" Value="Skeleton File" />
+  <Item Key="Property_Scene3DFile" Value="3D Scene" />
+  <Item Key="Property_SaveColorHere" Value="Save color here" />
+  <Item Key="Property_AnimationTip" Value="This property can be used as animation frames property" />
+  <Item Key="Property_OutlineTip" Value="Only Support TTF and TTC Fonts" />
+  <Item Key="Property_OutlineSize" Value="Outline Size" />
+  <Item Key="Property_OutlineColor" Value="Outline Color" />
+  <Item Key="Property_OutlineEnabled" Value="Enable Outline" />
+  <Item Key="Property_ShadowColor" Value="Shadow Color" />
+  <Item Key="Property_ShadowOffset" Value="Shadow Offset" />
+  <Item Key="Property_ShadowBlurRadius" Value="Shadow Blur Radius " />
+  <Item Key="Property_ShadowEnabled" Value="Enable Shadow" />
+  <Item Key="Property_Angle" Value="°" />
+  <Item Key="guide_OnlineHelper" Value="Online Help" />
+  <Item Key="StatusSlider_btn_Reset" Value="Reset Canvas" />
+  <Item Key="UI_ProjectContexMenu_LayoutAlign" Value="Alignment" />
+  <Item Key="UILayoutContainer_LayOut_Relative" Value="Relative Layout" />
+  <Item Key="CCBReport_toggleButtonHelp" Value="Help" />
+  <Item Key="OpenProect" Value="Open Project" />
+  <Item Key="UI_ControlLayout_txtSize" Value="Size" />
+  <Item Key="UIListVIew_ChildAlignment" Value="Child Alignment" />
+  <Item Key="grid_sudoku_size" Value="Size" />
+  <Item Key="Category_Component_Children_Interval" Value="Child Spacing" />
+  <Item Key="TextAtlasResourceExplain" Value="Note: Images must be made up of characters &quot;./0123456789&quot; that has the same width." />
+  <Item Key="Layer_size" Value="Layer Size" />
+  <Item Key="Property_DragFileHere" Value="Drag resource here" />
+  <Item Key="Dialog_ButtonOK" Value="OK" />
+  <Item Key="Dialog_ButtonCancel" Value="Cancel" />
+  <Item Key="Dialog_ButtonYes" Value="Yes" />
+  <Item Key="Dialog_ButtonNo" Value="No" />
+  <Item Key="Dialog_ButtonReturn" Value="Return" />
+  <Item Key="Dialog_ButtonAdd" Value="Add" />
+  <Item Key="Dialog_ButtonEdit" Value="Edit" />
+  <Item Key="Dialog_ButtonRemove" Value="Remove" />
+  <Item Key="Dialog_ButtonClose" Value="Close" />
+  <Item Key="Dialog_ButtonMoveUp" Value="Up" />
+  <Item Key="Dialog_ButtonMoveDown" Value="Down" />
+  <Item Key="Dialog_ButtonSelectAll" Value="Select All" />
+  <Item Key="Dialog_ResolutionTooltip" Value="[Select/Deselect All]: Selected items will appear in the resolution combobox on the toolbar." />
+  <Item Key="Dialog_Resolution" Value="Resolution" />
+  <Item Key="Dialog_ButtonNew" Value="New" />
+  <Item Key="Dialog_ButtonDontSave" Value="Don't save" />
+  <Item Key="Dialog_NewProject" Value="New Project" />
+  <Item Key="Dialog_NewSolution" Value="New Solution" />
+  <Item Key="Dialog_ProjectName" Value="Project Name" />
+  <Item Key="Dialog_ProjectPath" Value="Project Path" />
+  <Item Key="Dialog_ButtonBrowse" Value="Browse" />
+  <Item Key="Dialog_ButtonReplace" Value="Replace" />
+  <Item Key="Dialog_SaveAs" Value="Save As" />
+  <Item Key="Dialog_SaveAsPath" Value="Save Path" />
+  <Item Key="ContexMenu_AddSubComponent" Value="Add Child Widget" />
+  <Item Key="Helper_About" Value="About Cocos Studio" />
+  <Item Key="Helper_Authorize" Value="Authorize" />
+  <Item Key="Dialog_ExportPlist_txtLocation" Value="Location" />
+  <Item Key="Dialog_ExportPlist_file" Value="Sprite Sheet:" />
+  <Item Key="Dialog_ExportPlist_Dir" Value="Export Directory:" />
+  <Item Key="Dialog_ExportPlist_EdgeSetting" Value="Edge Setting:" />
+  <Item Key="Dialog_ExportPlist_windowTile" Value="Export Images" />
+  <Item Key="Dialog_ExportPlist_radioBtnClip" Value="Without blank edge" />
+  <Item Key="Dialog_ExportPlist_radioBtnEdge" Value="With blank edge" />
+  <Item Key="Dialog_ExportPlist_ExportFormat" Value="Export Format" />
+  <Item Key="Dialog_SelectExportPath" Value="Please select export direcotry" />
+  <Item Key="Dialog_ExportPathEmpty" Value="Export directory cannot be empty" />
+  <Item Key="Dialog_IllegalExportPath" Value="Illegal export directory, please select another directory" />
+  <Item Key="Dialog_ExportFileExist" Value="File with the same name already exists in the export directory, whether to continue? (If continue, the original file will be overwirtten)" />
+  <Item Key="Dialog_Code" Value="Code" />
+  <Item Key="Dialog_Path" Value="Path" />
+  <Item Key="Dialog_Button_ApplyToAll" Value="Apply to all" />
+  <Item Key="Dialog_Button_SaveBoth" Value="Save Both" />
+  <Item Key="Dialog_Button_Skip" Value="Skip" />
+  <Item Key="Select_File" Value="Select resources to import" />
+  <Item Key="Dialog_PleaseSaveFiles" Value="Do you want to save changes to the following items?" />
+  <Item Key="AllReplacement" Value="Select All" />
+  <Item Key="Guide_LastOne" Value="Create" />
+  <Item Key="ResourceReplacementWindow" Value="Resource Replace" />
+  <Item Key="Dialog_ButtonRetry" Value="Retry" />
+  <Item Key="Dialog_New_Addition" Value="Extra" />
+  <Item Key="Dialog_New_Optimize" Value="Optimization param" />
+  <Item Key="Dialog_New_X86Null" Value="Default" />
+  <Item Key="Dialog_New_X86GCC" Value="Optimize GCC" />
+  <Item Key="Dialog_New_X86ICC" Value="Complie With ICC" />
+  <Item Key="Dialog_New_NewPrj" Value="New: " />
+  <Item Key="Dialgo_New_NowCreating" Value="Creating new project" />
+  <Item Key="Dialog_New_ShowOuput" Value="Show output details" />
+  <Item Key="Dialog_New_Abort" Value="Creating new project was canceled" />
+  <Item Key="Dialog_New_CreateSuccess" Value="Project created" />
+  <Item Key="Dialog_New_CreateFailed" Value="Failed to create project." />
+  <Item Key="Dialog_New_EngineVersion" Value="Engine Version" />
+  <Item Key="NewSolution_EmptyResource" Value="Empty Resource Project" />
+  <Item Key="NewSolution_EmptyResourceDes" Value="Create a game resources solution" />
+  <Item Key="NewSolution_EmptyComplete" Value="Empty Complete Project" />
+  <Item Key="NewSolution_EmptyCompleteDes" Value="It is a game development solution based on Cocos Studio, Cocos Framework and IDE, integrated with procedures from creating projects to publishing games." />
+  <Item Key="NewSolution_GroupAll" Value="All" />
+  <Item Key="NewSolution_GroupProject" Value="Project" />
+  <Item Key="NewSolution_GroupSample" Value="Sample" />
+  <Item Key="NewSolution_GroupCustom" Value="Custom" />
+  <Item Key="NewSolution_StepOne" Value="Choose a type for your new project" />
+  <Item Key="NewSolution_StepTwo" Value="Choose options for your new project" />
+  <Item Key="NewSolution_Next" Value="Next" />
+  <Item Key="NewSolution_Previous" Value="Previous" />
+  <Item Key="NewSolution_ScreenOrientation" Value="Orientation" />
+  <Item Key="NewSolution_LuaDes" Value="Support more extensions" />
+  <Item Key="NewSolution_CppDes" Value="Higher performance" />
+  <Item Key="NewSolution_JsDes" Value="HTML5 cross-terminal solution" />
+  <Item Key="NewSolution_SupportX86" Value="Support x86 CPU" />
+  <Item Key="NewSolution_OptimizeType" Value="Optimize Type" />
+  <Item Key="NewSolution_X86DefaultDes" Value="Basic optimization" />
+  <Item Key="NewSolution_X86GCCDes" Value="GNU compiler optimization" />
+  <Item Key="NewSolution_NowCreating" Value="Now creating new project, please wait" />
+  <Item Key="NewSolution_SolutionType" Value="Project Type" />
+  <Item Key="NewSolution_CocosProject" Value="Cocos Project" />
+  <Item Key="NewSolution_NoFwTooltip" Value="Without Cocos Framework, you cannot create a C++ project and the project will not support Android phones with x86 CPU." />
+  <Item Key="NewSolution_SolutionTemplate" Value="Project Template" />
+  <Item Key="NewSolution_EngineType" Value="Engine Type" />
+  <Item Key="NewSolution_Prebuilt" Value="Precompiled Library" />
+  <Item Key="NewSolution_SourceCode" Value="Source Code" />
+  <Item Key="NewSolution_GeneralSolution" Value="General Template" />
+  <Item Key="NewSolution_GeneralSolutionDes" Value="Hello World template for Cocos 2d-x." />
+  <Item Key="NewSolution_SDKBoxCancelDownload" Value="Cancel Download" />
+  <Item Key="NewSolution_SelectServices" Value="SDKs" />
+  <Item Key="NewSolution_Editor" Value="Editor" />
+  <Item Key="NewSolution_ConflictSDKIsChecked" Value="Unable to select the SDK. This SDK conflicts with {0}." />
+  <Item Key="NewSolution_CreateStudioFile" Value="Create Cocos Studio Project File" />
+  <Item Key="NewSolution_NoSDKBoxs" Value=" Unable to acquire SDK services." />
+  <Item Key="NewSolution_CreateProj" Value="Create Project" />
+  <Item Key="NewSolution_SDKLater" Value="Loading, please wait..." />
+  <Item Key="NewSolution_NotSupportSDK" Value="The current engine version does not support integrating SDK services." />
+  <Item Key="NewFile_Title" Value="New File" />
+  <Item Key="NewFile_FileName" Value="File Name" />
+  <Item Key="NewFile_FileDescription" Value="Description" />
+  <Item Key="NewFile_FileSize" Value="Size" />
+  <Item Key="NewFile_Pixel" Value="Px" />
+  <Item Key="NewFile_Width" Value="Width" />
+  <Item Key="NewFile_Height" Value="Height" />
+  <Item Key="NewFile_Scene" Value="Scene" />
+  <Item Key="NewFile_Plist" Value="Sprite#Sheet" />
+  <Item Key="NewFile_Layer" Value="Layer" />
+  <Item Key="NewFile_AnimationNode" Value="Node" />
+  <Item Key="NewFile_Skeleton" Value="Skeletal#Animation" />
+  <Item Key="NewFile_Scene3D" Value="3D#Scene" />
+  <Item Key="NewFile_SameName" Value="The name already exists. Please use a different name." />
+  <Item Key="NewFile_WrongName" Value="File names can only contain numbers and alphabets" />
+  <Item Key="NewFile_SceneDes" Value="A scene is a container that contains game elements. Scenes can be used to create stages or game scenes." />
+  <Item Key="NewFile_PlistDes" Value="Packaging individual assets into spritesheet can greatly improves the game performance." />
+  <Item Key="NewFile_NodeDes" Value="Node is the basic element of the game." />
+  <Item Key="NewFile_LayerDes" Value="Layer contains canvas size, can be used to setup the stage or background of a scene." />
+  <Item Key="NewFile_Scene3DDes" Value="In a 3D scene, you can create your environments, stages, effects, battle scenes, etc." />
+  <Item Key="NewFile_SkeletonDes" Value="Skeletons can be used to animate characters. Attach the vertices of a skeletal structure and set the properties of the skeletons, and then you can make the skin move and animate the model." />
+  <Item Key="Dialog_Publish_Title" Value="Publish" />
+  <Item Key="Dialog_Publish_Default" Value="Default" />
+  <Item Key="Dialog_Publish_Custom" Value="Custom" />
+  <Item Key="Dialog_Publish_Language" Value="Language" />
+  <Item Key="Dialog_Publish_AlwaysAsk" Value="Always Ask" />
+  <Item Key="Dialog_Publish_Success" Value="Project published" />
+  <Item Key="Dialog_Publish_Failed" Value="Failed to publish project" />
+  <Item Key="Dialog_Publish_FileCheck" Value="WARNING：Upper and lower case letters in filenames are different between {0} and local file, may cause failed to run app on Android or iOS platform." />
+  <Item Key="Dialog_Publish_HaveInstalledZip" Value="Portable version Installed" />
+  <Item Key="Dialog_Publish_SelectCodeIDE" Value="Select Cocos Code IDE path" />
+  <Item Key="Dialog_Publish_TypeSelection" Value="Select Type" />
+  <Item Key="Dialog_PublishType" Value="Publish Type" />
+  <Item Key="Dialog_PackageType" Value="Package Type" />
+  <Item Key="Dialog_Publish_Android" Value="Android Project" />
+  <Item Key="Dialog_Publish_iOS" Value="iOS Project" />
+  <Item Key="Dialog_Publish_Setting" Value="Settings" />
+  <Item Key="Dialog_Publish_CodeIDE" Value="Publish to Code IDE" />
+  <Item Key="Dialog_Publish_VS" Value="Publish to Visual Studio" />
+  <Item Key="Dialog_Publish_Xcode" Value="Publish to Xcode" />
+  <Item Key="Dialog_PackageProject" Value="Package Project" />
+  <Item Key="Dialog_AndroidPackage" Value="Android Package (.apk)" />
+  <Item Key="Dialog_iOSPackage" Value="iOS Package (.ipa)" />
+  <Item Key="Dialog_Import_Success" Value="Import success" />
+  <Item Key="Dialog_Import_Warring" Value="Import complete" />
+  <Item Key="Dialog_Import_Failed" Value="Import failed" />
+  <Item Key="Dialog_Import_Importing" Value="Importing" />
+  <Item Key="Dialog_About_Version" Value="Version: {0}" />
+  <Item Key="Dialog_About_Web" Value="Website" />
+  <Item Key="Dialog_About_Weibo" Value="Weibo" />
+  <Item Key="Dialog_About_Forum" Value="Forum" />
+  <Item Key="CodeSupplyment_NeedFramework" Value="Current operation requires Cocos Framework. Do you want to download it?" />
+  <Item Key="CodeSupplyment_ProjectUpgrade" Value="Project Upgrade" />
+  <Item Key="CodeSupplyment_UpgradeSuccess" Value="Project upgraded" />
+  <Item Key="CodeSupplyment_UpgradeFailed" Value="Failed to upgrade project" />
+  <Item Key="CodeSupplyment_NeedUpgradeUnknown" Value="Project need to be upgraded before excuting the opreation" />
+  <Item Key="CodeSupplyment_NeedUpgradePublish" Value="Beforce publishihg, project need to be upgraded to complete project which contains the source code" />
+  <Item Key="CodeSupplyment_NeedUpgradePackage" Value="Beforce packaging, project need to be upgraded to complete project which contains the source code" />
+  <Item Key="CodeSupplyment_NeedUpgradeRun" Value="Beforce running, project need to be upgraded to complete project which contains the source code" />
+  <Item Key="CodeSupplyment_Setting" Value="Upgrade Setting" />
+  <Item Key="CodeSupplyment_ResetPublishDir" Value="Publish directory will be reset to &quot;{0}&quot;" />
+  <Item Key="CodeSupplyment_CannotUpgrade" Value="The engine of current project cannot be upgrade to the selected version. Click for the solution." />
+  <Item Key="Package" Value="Package" />
+  <Item Key="Package_GeneratePath" Value="Generate Path" />
+  <Item Key="Package_Android_Setting" Value="Android Setting" />
+  <Item Key="Package_Keystore" Value="Keystore:" />
+  <Item Key="Package_Keystore_Alias" Value="Alias:" />
+  <Item Key="Package_Keystore_Alias_Password" Value="Alias Password:" />
+  <Item Key="Package_Keystore_Password" Value="Keystore Password:" />
+  <Item Key="Package_Package_Logo" Value="Package Identifier" />
+  <Item Key="Package_Android_Version" Value="Android Version:" />
+  <Item Key="Package_Encrypt" Value="Encrypt" />
+  <Item Key="Package_Encrypt_Key" Value="Encrypt Key:" />
+  <Item Key="Package_Encrypt_Sign" Value="Encrypt Sign:" />
+  <Item Key="Package_Attention" Value="Note: If you want to enable the encrypt option, you need to modify the C++ code." />
+  <Item Key="Package_Keystore_Publish" Value="Keystore Selection" />
+  <Item Key="Package_Build_Options" Value="Build Options" />
+  <Item Key="Package_Debug_Keystore" Value="Package with debug keystore" />
+  <Item Key="Package_Private_Keystore" Value="Package with private keystore" />
+  <Item Key="Package_Keystore_Failure" Value="Failed to create keystore" />
+  <Item Key="Package_iOS_Certificate" Value="iOS Certificates" />
+  <Item Key="Package_iOS_Tag" Value="Target" />
+  <Item Key="Package_iOS_Publish" Value="Publish Setting" />
+  <Item Key="Package_iOS_Setting" Value="iOS Setting" />
+  <Item Key="Package_Keystore_Creat" Value="Keystore Creation" />
+  <Item Key="Package_Keystore_Location" Value="Keystore Location:" />
+  <Item Key="Package_Affirm_Password" Value="Confirm:" />
+  <Item Key="Package_AliasName" Value="Alias:" />
+  <Item Key="Package_AliasPassword" Value="Alias Password:" />
+  <Item Key="Package_ValidDate" Value="Validity (years):" />
+  <Item Key="Package_FirstAndLastWord" Value="First and Last Name:" />
+  <Item Key="Package_Unit" Value="Organization Unit:" />
+  <Item Key="Package_Organization" Value="Organization:" />
+  <Item Key="Package_City" Value="City or Locality:" />
+  <Item Key="Package_Country" Value="State or Province:" />
+  <Item Key="Package_CountyCode" Value="Country Code (XX):" />
+  <Item Key="Package_LookOver" Value="Browse" />
+  <Item Key="Package_Keystore_Error0" Value="Please enter keystore password." />
+  <Item Key="Package_Keystore_Error1" Value="Keystore password cannot be less than 6 characters." />
+  <Item Key="Package_Keystore_Error2" Value="Confirm keystore password does not match the password." />
+  <Item Key="Package_Keystore_Error3" Value="Please enter key alias." />
+  <Item Key="Package_Keystore_Error4" Value="Please enter password for key alias." />
+  <Item Key="Package_Keystore_Error5" Value="Key password cannot be less than 6 characters." />
+  <Item Key="Package_Keystore_Error6" Value="Confirm key password does not match the password." />
+  <Item Key="Package_Keystore_Error7" Value="Key certificate validity is required." />
+  <Item Key="Package_Keystore_Error8" Value="Key certificate validity must be between 1 and 1000 years." />
+  <Item Key="Package_Keystore_Error9" Value="At least one Certificate Issuer field is required to be non-empty." />
+  <Item Key="Package_Keystore_Error10" Value="Confirm keystore password." />
+  <Item Key="Package_Keystore_Error11" Value="Confirm key password." />
+  <Item Key="Package_Keystore_Error12" Value="The keystore file already exists." />
+  <Item Key="Package_NowPackaging" Value="Now packaging, please wait." />
+  <Item Key="Package_PackageSetting" Value="Package Settings" />
+  <Item Key="Package_EnableSourceMap" Value="Enable Source Map" />
+  <Item Key="Package_EnableAdvanced" Value="Enable Advanced Mode" />
+  <Item Key="Package_AdvancedDesc" Value="Compile all source js files using Closure Compiler's advanced mode&#xD;&#xA;Bigger compression ratio but more risk" />
+  <Item Key="Run_FailedToRun" Value="Failed to run project" />
+  <Item Key="Run_SelectPlatform" Value="Select Platform" />
+  <Item Key="Run_Windows" Value="Run on Windows" />
+  <Item Key="Run_Mac" Value="Run on Mac" />
+  <Item Key="Run_Android" Value="Run on Android" />
+  <Item Key="Run_iOS" Value="Run on iOS" />
+  <Item Key="Run_Web" Value="Run in browser" />
+  <Item Key="Run_Simulator" Value="Run on Web Simulator" />
+  <Item Key="Run_NowRunning" Value="Operation is in progress, please wait..." />
+  <Item Key="Run_OperationComplete" Value="Operation complete." />
+  <Item Key="Run_OperationCanceled" Value="The operation has been cancelled." />
+  <Item Key="Run_OperationFailed" Value="Operation failed." />
+  <Item Key="Run_OperationFinished" Value="Operation finished." />
+  <Item Key="Run_RunIsCanceled" Value="The process has been cancelled." />
+  <Item Key="Run_RunSuccessed" Value="The process is successful." />
+  <Item Key="Run_RunFinished" Value="The process is complete." />
+  <Item Key="Run_Console" Value="Console" />
+  <Item Key="Run_LinkCourse" Value="Device connection tutorials" />
+  <Item Key="Run_RunWebHelp" Value="How to debug in browser: " />
+  <Item Key="Run_SimulatorItrdct" Value="Cocos Web Simulator is a great tool for web developers which provides quick HTML5 game preview and enhanced debugging toolset. &#xA;It can preview the game, inspect the scene node graph in runtime, edit and save codes, set breakpoints and other debug funtionalities provided by Chrome Dev Tool." />
+  <Item Key="Run_DontShowAgain" Value="Don't show again" />
+  <Item Key="Run_DownloadSimulator" Value="Download Cocos Web Simulator" />
+  <Item Key="Run_RunOnDefaultBrowser" Value="Run on default browser" />
+  <Item Key="Run_DownloadInStore" Value="Download in Cocos Store" />
+  <Item Key="ColorPicker_ColorName" Value="Color _name:" />
+  <Item Key="ColorPicker_Alpha" Value="Op_acity:" />
+  <Item Key="ColorPicker_Blue" Value="_Blue:" />
+  <Item Key="ColorPicker_Green" Value="_Green:" />
+  <Item Key="ColorPicker_Red" Value="_Red:" />
+  <Item Key="ColorPicker_Value" Value="_Value:" />
+  <Item Key="ColorPicker_Saturation" Value="_Saturation:" />
+  <Item Key="ColorPicker_Hue" Value="_Hue:" />
+  <Item Key="ColorPicker_Palette" Value="_Palette:" />
+  <Item Key="ColorPicker_SelectInfo" Value="Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle." />
+  <Item Key="ColorPicker_PreColor" Value="The previously-selected color, for comparison to the color you're selecting now." />
+  <Item Key="ColorPicker_CurColor" Value="The color you've chosen." />
+  <Item Key="ColorPicker_Dropper" Value="Click the eyedropper, then click a color anywhere on your screen to select that color." />
+  <Item Key="ColorPicker_EnterInfo" Value="You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry." />
+  <Item Key="ColorPicker_ColorTransparency" Value="Transparency of the color." />
+  <Item Key="ColorPicker_BlueAmount" Value="Amount of blue light in the color." />
+  <Item Key="ColorPicker_GreenAmount" Value="Amount of green light in the color." />
+  <Item Key="ColorPicker_RedAmount" Value="Amount of red light in the color." />
+  <Item Key="ColorPicker_Brightness" Value="Brightness of the color." />
+  <Item Key="ColorPicker_Deepness" Value="&quot;Deepness&quot; of the color." />
+  <Item Key="ColorPicker_ColorWheel" Value="Position on the color wheel." />
+  <Item Key="ColorPicker_PaletteInfo" Value="Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select &quot;Save color here.&quot;" />
+  <Item Key="ScreeSize_Dialog_WindowTitle" Value="Custom Size" />
+  <Item Key="Display_Vertical" Value="Vertical Screen" />
+  <Item Key="Display_Horizontal" Value="Horizontal Screen" />
+  <Item Key="ScreeSize_Dialog_NewTitle" Value="New Resolution" />
+  <Item Key="ScreeSize_Dialog_ModifyTitle" Value="Edit Resolution" />
+  <Item Key="Preference_Mouse" Value="Mouse" />
+  <Item Key="Preference_Environment" Value="Environment Settings" />
+  <Item Key="Preference_DisableWheel" Value="Disable mouse wheel zoom" />
+  <Item Key="Preference_DeprecatedWidgets" Value="Enable deprecated widgets" />
+  <Item Key="Preference_SimplifyResource" Value="Simplify widgets initial resources" />
+  <Item Key="Preference_MultiSample" Value="Multiple sampling" />
+  <Item Key="Preference_RestartCocosTooltip" Value="Please restart Cocos Studio to apply the change of multiple sampling." />
+  <Item Key="Preference_Display" Value="Display" />
+  <Item Key="Preference_Option" Value="Options" />
+  <Item Key="Preference_Platform" Value="Platform" />
+  <Item Key="Preference_AndroidPath" Value="Android Path" />
+  <Item Key="Preference_Prompt" Value="Note: Download SDK, NDK and JDK in Cocos Store" />
+  <Item Key="Preference_SelectPath" Value="Select {0} path" />
+  <Item Key="Preference_SaveDir" Value="Download Directory" />
+  <Item Key="Preference_SelectSaveDir" Value="Please select the download directory" />
+  <Item Key="Preference_SaveDirIllegal" Value="The download directory is invalid. Please select a valid download directory" />
+  <Item Key="Preference_Procedure" Value="Application" />
+  <Item Key="Preference_SinceStartup" Value="Automatically start cocos when the computer starts" />
+  <Item Key="Preference_GuidesColor1" Value="Cyan" />
+  <Item Key="Preference_GuidesColor2" Value="Light Blue" />
+  <Item Key="Preference_GuidesColor3" Value="Light Red" />
+  <Item Key="Preference_GuidesColor4" Value="Green" />
+  <Item Key="Preference_GuidesColor5" Value="Medium Blue" />
+  <Item Key="Preference_GuidesColor6" Value="Yellow" />
+  <Item Key="Preference_GuidesColor7" Value="Magenta" />
+  <Item Key="Preference_GuidesColor8" Value="Light Gray" />
+  <Item Key="NewGuidesTitle" Value="New Guides" />
+  <Item Key="Group_Direction" Value="Direction" />
+  <Item Key="Radio_HorizontalGuides" Value="Horizontal" />
+  <Item Key="Radio_VerticalGuides" Value="Vertical" />
+  <Item Key="TextBlock_Position" Value="Position" />
+  <Item Key="Preference_OutputInfo" Value="Output Info" />
+  <Item Key="Preference_ShowInCmd" Value="Show in command window" />
+  <Item Key="Preference_ShowInOutputPad" Value="Show in output pad" />
+  <Item Key="Preference_Configure" Value="One Click Configure" />
+  <Item Key="Preference_FwNotInstalled" Value="Cocos Framework is not installed" />
+  <Item Key="Preference_FrameworkList" Value="Following version(s) of Framework has been detected:" />
+  <Item Key="Preference_AnySDKPath" Value="AnySDK Location" />
+  <Item Key="ProjSetting" Value="Project Settings" />
+  <Item Key="ProjSetting_DataFormat" Value="Data Format" />
+  <Item Key="ProjSetting_csbFile" Value="csb File (Binary)" />
+  <Item Key="ProjSetting_jsonFile" Value="JSON File" />
+  <Item Key="ProjSetting_luaFile" Value="Lua File" />
+  <Item Key="ProjSetting_csbInfo" Value="FlatBuffers is employed to read binary files, featuring in high efficiency, smalle size, significant security. Support Cocos2d-x C++ and LuaBinding." />
+  <Item Key="ProjSetting_jsonInfo" Value="Lightweight data transfer format, good readability, native support for JavaScript. Support Cocos2d-JS." />
+  <Item Key="ProjSetting_luaInfo" Value="Good readability and scalability. Support Cocos2d-x LuaBinding." />
+  <Item Key="ProjSetting_customInfo" Value="Custom data format according to user demand" />
+  <Item Key="ProjSetting_VersionNotFit" Value="Selected data format may be not compatible with the current Cocos2d-x." />
+  <Item Key="ProjSetting_PublishDir" Value="Publish Directory" />
+  <Item Key="ProjSetting_PublishContent" Value="Publish Content" />
+  <Item Key="ProjSetting_PublishAll" Value="Publish All" />
+  <Item Key="ProjSetting_ResAndProjFile" Value="Resource and Project File" />
+  <Item Key="ProjSetting_ProjFileOnly" Value="Project File Only" />
+  <Item Key="ProjSetting_PublishAll_ToolTip" Value="Publish all of resources and project file(.csd, .csi) included resource panel" />
+  <Item Key="ProjSetting_ResAndProjFile_ToolTip" Value="Publish all of used resources and project file(.csd, .csi) included resource panel。" />
+  <Item Key="ProjSetting_ProjFileOnly_ToolTip" Value="Publish all of project file(.csd, .csi) included resource panel。" />
+  <Item Key="ProjSetting_Simulator" Value="Simulator" />
+  <Item Key="ProjSetting_ShowCmdWnd" Value="Show command window" />
+  <Item Key="ProjSetting_DefaultScale" Value="Default Scale" />
+  <Item Key="ProjSetting_Start" Value="Start" />
+  <Item Key="ProjSetting_MoreInfo" Value="More Info" />
+  <Item Key="ProjSetting_PackageDir" Value="Package Directory" />
+  <Item Key="KeystoreError" Value="Keystore name and current project name should be same. Please try again." />
+  <Item Key="ProjSetting_ChangeVersionWarring" Value="Changing Framework may expose incompatible API." />
+  <Item Key="ProjSetting_NewKeystore" Value="New keystore" />
+  <Item Key="ProjSetting_ControlName" Value="Control Naming" />
+  <Item Key="ProjSetting_EnableUniformName" Value="Enable standardized naming" />
+  <Item Key="ProjSetting_NameingDesc" Value="Standardized naming can only affect subsequent naming. Antecedent names will not be affected." />
+  <Item Key="ProjSetting_CannotSwitchEngine" Value="The engine of current project cannot be changed to selected version. Click the ? icon for solution." />
+  <Item Key="AutoUpdate_Install" Value="Install" />
+  <Item Key="AutoUpdate_CanNotUpdate" Value="Current version cannot be updated automatically." />
+  <Item Key="AutoUpdate_NoNetWork" Value="Failed to connect to auto update server." />
+  <Item Key="AutoUpdate_FailedToGetInfo" Value="Failed to get update info." />
+  <Item Key="AutoUpdate_Skip" Value="Skip this update" />
+  <Item Key="AutoUpdate_Download" Value="Download" />
+  <Item Key="AutoUpdate_Title" Value="Cocos Update" />
+  <Item Key="AutoUpdate_NewVerFound" Value=" A new version of cocos is aviable: {0} " />
+  <Item Key="AutoUpdate_DownloadFinished" Value="Update has been downloaded and is ready to be installed." />
+  <Item Key="Menu_Help_CheckUpdate" Value="Check for Updates" />
+  <Item Key="AutoUpdate_NowDownloading" Value="Downloading is in progress. Please wait..." />
+  <Item Key="AutoUpdate_Failed" Value="Failed to download, please try again." />
+  <Item Key="AutoUpdate_NewRuntime" Value="A new version of {0} is aviable: {1}" />
+  <Item Key="AutoUpdate_RuntimeUpToDate" Value="You already have the lates runtime installed." />
+  <Item Key="AutoUpdate_GetRuntimeVerFailed" Value="Failed to identify the current version of runtime." />
+  <Item Key="AutoUpdate_CurrentVersion" Value="Current version: {0}" />
+  <Item Key="AutoUpdate_VersionTooLow" Value="Cannot update. Click to download install package" />
+  <Item Key="AutoUpdate_Remind" Value="Update Notification" />
+  <Item Key="AutoUpdate_RemindType" Value="Remind Mode" />
+  <Item Key="AutoUpdate_AlwaysRemind" Value="Always remind" />
+  <Item Key="AutoUpdate_RemindLater" Value="Remind me later" />
+  <Item Key="AutoUpdate_InvalidMD5" Value="The MD5 value of update file is invalid. Please re-download this update package." />
+  <Item Key="AutoUpdate_FailedToRenmae" Value="Failed to rename the update package file." />
+  <Item Key="AutoUpdate_OtherDownloadig" Value="Cannot download. Other cocos process is downloading this update package." />
+  <Item Key="CrashDlg_Sorry" Value="Cocos is closed due to an unknown error. We are sorry for the inconvenience caused. We hope you will provide relevant information to help us to improve the quality of cocos." />
+  <Item Key="CrashDlg_PlzDesc" Value="Please describe in detail what you were doing when the problem occured:" />
+  <Item Key="CrashDlg_Email" Value="Please provide your contact information to help us to contact you:" />
+  <Item Key="CrashDlg_DetailTooLong" Value="The feedback info should not exceed 160 words." />
+  <Item Key="FileMove_TargetIsNull" Value="The target folder is null" />
+  <Item Key="FileMove_Solution" Value="Project cannot be moved." />
+  <Item Key="FileMove_Plist" Value="Plist file cannot be moved." />
+  <Item Key="FileMove_SourceAndTagetSame" Value="Source and target files are same." />
+  <Item Key="FileMove_TagerIsPlist" Value="Cannot be moved to a plist folder." />
+  <Item Key="FileMove_SameLeve" Value="Cannot move a directory to its sibling directory." />
+  <Item Key="FileMove_MoveInChild" Value="Cannot move a directory to a subdirectory of itself." />
+  <Item Key="FileMove_Exists" Value="This directory already contains a file with the same name." />
+  <Item Key="RadioButton_CoverFolder_Content" Value="Overwrite an existing folder (Warning：Overwrite could cause redundant resources.)" />
+  <Item Key="TextBlock_Prompt_Text" Value="{0} already exists in the export directory." />
+  <Item Key="RadioButton_ChangeFolder_Content" Value="Rename export folder to {0}" />
+  <Item Key="txt_Password" Value="Using a single character in ASCII code (33-126)." />
+  <Item Key="StatusBar_SelectedCount" Value="{0} objects are selected" />
+  <Item Key="CoverEachIsExistFile" Value="The export folder already contains a file named {0}. Would you like to replace it with a new one?" />
+  <Item Key="CoverEachIsConflictFile" Value="Repeat this for the following {0} conflicts." />
+  <Item Key="OutputMessage" Value="Pageview can only add the layout panel as child control." />
+  <Item Key="NetworkAnomalies" Value="Login failed, network error." />
+  <Item Key="CreateObjectError" Value="Failed to create an object." />
+  <Item Key="InitJsonFail" Value="Json model initialization failed." />
+  <Item Key="OpenProjectFail" Value="Failed to open project." />
+  <Item Key="Output_SameProjAlreadyOpened" Value="This project has already been opened." />
+  <Item Key="FailedToLoadFile" Value="Failed to load the file" />
+  <Item Key="StartLauchFail" Value="Failed to start the simulator." />
+  <Item Key="ListViewOutputMessage" Value="Sprite, Particle, TileMap, Audio and Node cannot be added to ListView !" />
+  <Item Key="Output_SavePListSucceed" Value="Sprite Sheet exported." />
+  <Item Key="Output_FailedToSavePlist" Value="Failed to export Sprite Sheet." />
+  <Item Key="Output_SaveAsSucceed" Value="Saved as a new project." />
+  <Item Key="Output_ExportPrjSucceed" Value="Project exported" />
+  <Item Key="Output_FailedToOpenDir" Value="Failed to open path" />
+  <Item Key="Output_FailedToSaveFile" Value="Failed to save file" />
+  <Item Key="Output_ImportSuccessed" Value="{0} has been imported." />
+  <Item Key="Output_ImportFailed" Value="Failed to import {0}." />
+  <Item Key="Output_TagIsSourceChild" Value="Failed to import {0}, for you cannot move a file from a folder to its subfolders." />
+  <Item Key="Output_Saved" Value="Saved" />
+  <Item Key="Output_ProjectRefLoop" Value="Failed to add the project &quot;{0}&quot;. To add this project as a reference would cause a circular dependency." />
+  <Item Key="Output_PasteFailure" Value="Failed to paste. This operation would cause a circular dependency" />
+  <Item Key="Output_ScaleCannotBeZero" Value="Scale value cannot be 0." />
+  <Item Key="Output_FailedToInstallUpdate" Value="Failed to install the update." />
+  <Item Key="Output_FailedToCopyToTemp" Value="Failed to copy the installer into temp folder." />
+  <Item Key="Output_CantFindUpdateExe" Value="Failed to update. Cannot find the setup program: {0}" />
+  <Item Key="Output_FailedToDownload" Value="Failed to download the installation package." />
+  <Item Key="Output_ProjectPackaged" Value="Project packaged." />
+  <Item Key="Output_FailedToPackage" Value="Failed to package project." />
+  <Item Key="Output_PackageCanceled" Value="Package is cancelled." />
+  <Item Key="Output_FailedToGetSln" Value="Failed to load project." />
+  <Item Key="Output_TextureWontPublishWithPlist" Value="WARNING: {0} is greater than size of sprite sheet picture, so this image file doesn't contain in output sprite sheet {1}, Run project may cause error." />
+  <Item Key="Output_NoNetwork" Value="Failed to connect to Internet, please check the local network configuration" />
+  <Item Key="Output_GetServerInfoFail" Value="Failed to get infomation from server" />
+  <Item Key="Output_NoWriteAccess" Value="The selected directory does not have write access, please reselect" />
+  <Item Key="Output_InvalidDir" Value="The selected directory is invalid, please select another directory" />
+  <Item Key="Output_SpaceNotEnough" Value="Insufficient disk space" />
+  <Item Key="Output_DirTooLong" Value="The selected directory is too long, please select another directory" />
+  <Item Key="Output_DirInvalidChar" Value="Selected directory can not contain spaces or other special characters" />
+  <Item Key="Output_DirNotExist" Value="The selected directory does not exist, please select another directory" />
+  <Item Key="Output_DragChangeSize" Value="Drag control node of select box will change the &quot;SIZE&quot; of widgets." />
+  <Item Key="Output_DragChangeScale" Value="Drag control node of select box will change the &quot;SCALE&quot; of widgets." />
+  <Item Key="Output_ResCannotBeEmpty" Value="Failed to set resource. The object is null or is not a resource." />
+  <Item Key="Output_InvalidResType" Value="The type of resource is not correspond with the property." />
+  <Item Key="Output_ErrorResource" Value="Failed to set resource. This is a invalid resource." />
+  <Item Key="MessageBox_Notification" Value="Notification" />
+  <Item Key="MessageBox_Warning" Value="Warning" />
+  <Item Key="MessageBox_Error" Value="Error" />
+  <Item Key="MessageBox_WarmNotification" Value="Notification" />
+  <Item Key="MessageBox_Content41" Value="Please specify a project name." />
+  <Item Key="MessageBox_Content42" Value="The project name already exists in the path, please change the name or choose another path." />
+  <Item Key="MessageBox_Content44" Value="The file already exits. Do you want to overwrite it?" />
+  <Item Key="MessageBox_Content57" Value="Do you want to save the current project before quitting?" />
+  <Item Key="MessageBox_Content59" Value="Successfully exported." />
+  <Item Key="MessageBox_Content64" Value="Failed to parse the plist file." />
+  <Item Key="MessageBox_Content67" Value="Name cannot be empty." />
+  <Item Key="MessageBox_Content70" Value="A file with the same name already exists." />
+  <Item Key="MessageBox_Content71" Value="This project file was created by a updated version of cocos. Please upgrade cocos to the latest version." />
+  <Item Key="MessageBox_Content96" Value="Open File " />
+  <Item Key="MessageBox_Content100" Value="does not exist, failed to open project." />
+  <Item Key="MessageBox_Content106" Value="You already have the latest version installed." />
+  <Item Key="MessageBox_Content110" Value="Name cannot be empty." />
+  <Item Key="MessageBox_Content144" Value="The path is not valid. Please select a valid one." />
+  <Item Key="MessageBox_Content170" Value="Failed to load images from files." />
+  <Item Key="MessageBox_Content172" Value="Folder {0} already exists in current directory." />
+  <Item Key="MessageBox_Content173" Value="Cannot find the file. Please refresh the resources." />
+  <Item Key="MessageBox172_AskCloseCurSln" Value="Do you want to close the current project?" />
+  <Item Key="MessageBox174_SetPackage" Value="Package name cannot be empty." />
+  <Item Key="MessageBox179_CantFindCodeIDE" Value="Can't find Cocos Code IDE." />
+  <Item Key="MessageBox180_FailedToOpenCodeIDE" Value="Failed to open Cocos Code IDE." />
+  <Item Key="MessageBox181_CodeIDENotInstalled" Value="Cocos Code IDE was not installed, do you want to install it now?" />
+  <Item Key="MessageBox182_FailedToOpenWeb" Value="Failed to open the website." />
+  <Item Key="MessageBox183_XcodeNotInstalled" Value="Xcode was not instatlled. Do you want to install it now?" />
+  <Item Key="MessageBox184_GetPrjPathError" Value="Failed to get project path." />
+  <Item Key="MessageBox185_OpenWithXcodeError" Value="Failed to open Xcode." />
+  <Item Key="MessageBox186_VSNotInstalled" Value="Visual Studio was not installed. Do you want to install it now?" />
+  <Item Key="MessageBox187_OpenWithVSError" Value="Failed to open the project with Visual Studio." />
+  <Item Key="MessageBox188_AskSaveCurFile" Value="Save changes to the file before closing {0}? " />
+  <Item Key="MessageBox189_AskSaveFiles" Value="Save changes to the following files before closing? " />
+  <Item Key="MessageBox190_FileError" Value="This is a Sprite Sheet file. Please select a valid file." />
+  <Item Key="MessageBox191_FileMiss" Value="The resource file is missing." />
+  <Item Key="MessageBox192_NowEditing" Value="Following project files are being edited, please close them before delete:&#xA;{0}" />
+  <Item Key="MessageBox193_SameNameExist" Value="Already contains a file (folder) with the same name" />
+  <Item Key="MessageBox194_AskReplace" Value="File {0} already exists. Do you want to overwrite it?" />
+  <Item Key="MessageBox195_NoMatchPng" Value="Failed to import {0} because of the missing picture {1}." />
+  <Item Key="MessageBox196_AskOpenWithVS" Value="The project is successfully published. Would you like to open it with Visual Studio?" />
+  <Item Key="MessageBox197_AskOpenCodeIDE" Value="The project is successfully published. Would you like to open Cocos Code IDE." />
+  <Item Key="MessageBox198_PlistAlreadyExist" Value="The file has been used by another sprite sheet. Do you want to add it to current sprite sheet? " />
+  <Item Key="MessageBox199_PathContainsChinese" Value="Failed to import {0}. The path contains invalid charachters." />
+  <Item Key="MessageBox200_CannotRename" Value="{0} can not be renamed." />
+  <Item Key="MessageBox201_CanOnlyUseEnNum" Value="Use only letters, numbers and symbols,but no(/ \ : * ? &quot; &lt; &gt; | !)." />
+  <Item Key="MessageBox202_ConfirmDelete" Value="Move the file to the {0} or only remove the reference from the project (All the reference of this file will be set to default)?" />
+  <Item Key="MessageBox203_DeleteUsedResource" Value="The resources have been referenced somewhere, delete the file will cause error. Do you still want to delete it?" />
+  <Item Key="MessageBox205_NotIncludeSpecialChar" Value="Cannot contain special characters." />
+  <Item Key="MessageBox206_NestedSenceError" Value="{0} cannot nest scene files." />
+  <Item Key="MessageBox206_NestedSence3DError" Value="3D scene cannot nest other files." />
+  <Item Key="MessageBox206_NestedSkeletonError" Value="Skeleton scene cannot nest other files." />
+  <Item Key="MessageBox207_NestedSelfError" Value="No support for self-reference." />
+  <Item Key="MessageBox208_NotSupported" Value="It is not supported in this version." />
+  <Item Key="MessageBox209_PrjNameLimit" Value="Allowed characters in filename: a-z, 0-9, underline (_), subtraction (-), period (.) and comma (,)." />
+  <Item Key="MessageBox210_CantEndWithPeriod" Value="Porject name can not end with a period (.)." />
+  <Item Key="MessageBox212_NotChinese" Value="Cannot open selected path because it contains invalid characters" />
+  <Item Key="MessageBox214_ProjectVer1Imported" Value="Project is successfully imported" />
+  <Item Key="MessageBox215_WindowsNameLimit" Value="Can't use windows system reserved names as file name(aux, prn, con, nul, com0-com9, lpt0-lpt9)" />
+  <Item Key="MessageBox216_FileNameLimit" Value="File name can only contain 0-9 and a-z, underline (_), substraction (-), period (.) and comma (,). The maxium length are 50 characters." />
+  <Item Key="MessageBox217_CodeProjectNotFound" Value="The project file is not found: {0}" />
+  <Item Key="MessageBox218_FileAlreadyExists" Value="A file with name {0} already exists in this directory. What would you like to do?" />
+  <Item Key="MessageBox219_Cocos2dNameDetection1" Value="Package name cannot end with a period (.). Please try again." />
+  <Item Key="MessageBox220_PkgNameRestriction" Value="Package name can only contain letters (a-z, A-Z), numbers (0-9), as well as period (.)." />
+  <Item Key="MessageBox221_Cocos2dNameDetection3" Value="Package name must contain two level" />
+  <Item Key="MessageBox222_Cocos2dNameDetection4" Value="Package name parts may only start with letters" />
+  <Item Key="MessageBox223_FileNotFound" Value="File not found" />
+  <Item Key="MessageBox224_ParseXMLException" Value="An exception occurs when parsing XML file" />
+  <Item Key="MessageBox225_InvalidExportPath" Value="Export path is empty or invalid. Please set a valid path." />
+  <Item Key="MessageBox226_LauncherStartFailed" Value="Failed to start Launcher" />
+  <Item Key="MessageBox227_FailedToCreateSolution" Value="Failed to create the project, please try again" />
+  <Item Key="MessageBox228_FrameworkNotFound" Value="Cocos Framework has not been detected in the system. Please download it in Cocos Store and install it." />
+  <Item Key="MessageBox229_FailedToGetFramework" Value="Failed to get the Cocos Framework information." />
+  <Item Key="MessageBox227_NoSolutionSubdirectory" Value="The project's subdirectory cannot be selected. Please select a valid one." />
+  <Item Key="MessageBox228_IllegalPublishPath" Value="The specified directory is not valid. Please select a valid one." />
+  <Item Key="MessageBox229_CanNotPublish" Value="Unable to publish project to &quot; {0} &quot;. Would you like to specify another directory?" />
+  <Item Key="MessageBox230_ProjectEmptyNoExport" Value="Cannot export a empty sprite sheet." />
+  <Item Key="MessageBox231_NameExistsWarrning" Value="&quot; {0} &quot; already exists in the list. Please use another name." />
+  <Item Key="MessageBox232_SlnDirLimit" Value="Project path cannot contain Chinese characters or other invalid characters." />
+  <Item Key="MessageBox233_ObjectNameExists" Value=" Already contains an object with the same name, please set to another name" />
+  <Item Key="MessageBox234_ObjectNameFormatError" Value="Object name can only contain numbers and alphabet, or symbols (_). And only start with letters" />
+  <Item Key="MessageBox235_pkgSegmentsNotNull" Value="Each segment of package name can not be empty, please set to another name" />
+  <Item Key="MessageBox236_pkgSegmentsStart" Value="Each segment of package name may only start with letters, please set to another name" />
+  <Item Key="MessageBox237_enterKeystore" Value="Please enter keystore" />
+  <Item Key="MessageBox238_enterKeystoreKey" Value="Please enter keystore password" />
+  <Item Key="MessageBox239_enterAlias" Value="Please enter alias" />
+  <Item Key="MessageBox240_enterAliasKey" Value="Please enter alias password" />
+  <Item Key="MessageBox241_enterEncryptKey" Value="Please enter encrypt key" />
+  <Item Key="MessageBox242_enterEncryptSign" Value="Please enter encrypt sign" />
+  <Item Key="MessageBox243_enterTarget" Value="Please enter target" />
+  <Item Key="MessageBox244_ApplyChildren" Value="Do you want to apply the setting on child node?" />
+  <Item Key="MessageBox245_2DObjectIn3DScene" Value="3D scenes do not support 2D objects." />
+  <Item Key="MessageBox246_3DObjectIn2DScene" Value="2D scenes do not support 3D objects." />
+  <Item Key="MessageBox247_LuaNameStandard" Value="The current project has not been named normalized. Problems may occur after publishing the project to lua." />
+  <Item Key="MessageBox248_FeedBack" Value="Cocos is closed due to an unknown error. We are sorry for the inconvenience caused. We hope you will help us improve the quality of cocos. Please provide your contact information to help us to contact you." />
+  <Item Key="MessageBox249_Email" Value="Please enter a valid Email address" />
+  <Item Key="MessageBox250_atLeastOneResolution" Value="Please select at least one resolution" />
+  <Item Key="MessageBox251_resolutionSizeLimit" Value="Resolution must be an integer between {0} and {1}" />
+  <Item Key="MessageBox252_atLeastOnePlatform" Value="Please select at least one package type." />
+  <Item Key="MessageBox253_wetherSetApkPath" Value="The Android environment has not been set up. Would you like to set it now?" />
+  <Item Key="MessageBox253_FileNameLengthLimit" Value="The file name is too long to copy." />
+  <Item Key="MessageBox254_DeviceNotDetected" Value="Android device is not detected. Please connect the device and try again." />
+  <Item Key="MessageBox255_disabledFramework" Value="The current Framework version is not available. Would you like to change the settins?" />
+  <Item Key="MessageBox256_illegalPkgName" Value="The package name is invalid. Would you like to change the package name?" />
+  <Item Key="MessageBox257_illegalPkgPath" Value="The package direcotry is not valid. Please select a valid one." />
+  <Item Key="MessageBox258_pleaseSelectFw" Value="Please select a framework version." />
+  <Item Key="MessageBox259_ProcessCannotAccess" Value="The process cannot be accessed because it's being used by another process." />
+  <Item Key="MessageBox259_InvalidLuaVariableName" Value="{0} is not a valid Lua variable name." />
+  <Item Key="MessageBox260_TypeNotFound" Value="Type not found: {0}." />
+  <Item Key="MessageBox261_TypeNotFoundHint" Value="Please check if the Addin with this type is missed or its version is not matched" />
+  <Item Key="MessageBox262_invalidSize" Value="{0} must be an integer between {1}-{2}." />
+  <Item Key="MessageBox263_Delete" Value=" Move To {0} " />
+  <Item Key="MessageBox264_RecycleBin" Value="Recycle Bin" />
+  <Item Key="MessageBox265_Trash" Value="Trash" />
+  <Item Key="MessageBox266_ProjectNotFound" Value="{0} is not found. Do you want to remove it from recent projects?" />
+  <Item Key="Messagebox267_TooLongPath" Value="The complete path of the project is too long. Please shorten the length of the name or location of the project." />
+  <Item Key="MessageBox268_PleaseCloseCosos" Value="Please close cocos before installing the update." />
+  <Item Key="MessageBox269_WetherDownSimulator" Value="The project can be run on Cocos Web Simulator. Do you want to download it in Cocos Store?" />
+  <Item Key="MessageBox270_WetherUseSimulator" Value="Cocos Web Simulator is already installed. Do you want to run on Cocos Web Simulator?" />
+  <Item Key="MessageBox271_FeedBackSubject" Value="Crash feedback" />
+  <Item Key="MessageBox271_FeedBackInfo" Value="Please describe the bug details (under 160 characters)." />
+  <Item Key="MessageBox271_FeedBackInfo1" Value="╮(╯_╰)╭ OMG?!?! Keep calm. " />
+  <Item Key="MessageBox272_FeedBackInfo2" Value="╮(╯_╰)╭ OMG?!?! Keep calm. " />
+  <Item Key="MessageBox273_RestartCocos" Value="Restart cocos" />
+  <Item Key="MessageBox274_FeedBackInfo" Value="Tell me more about it~ " />
+  <Item Key="MessageBox275_FeedBackInfo" Value="Or send an email for " />
+  <Item Key="MessageBox276_FeedBackInfo" Value="Technical Support:  " />
+  <Item Key="MessageBox277_FeedBackInfo" Value="You cannot enter more than 160 characters." />
+  <Item Key="MessageBox278_PlzInstallCocos" Value="Engine is required for current operation. Please install the latest version of cocos." />
+  <Item Key="MessageBox279_SettingsAndroidSDK" Value="Before you can use SDK services, please set up Android development environment. Would you like to configure it now?" />
+  <Item Key="DataError1_PngNotExist" Value="Pairing PNG image does not exist." />
+  <Item Key="DataError2_FntIsBroke" Value="The fnt file is corrupted." />
+  <Item Key="DataError3_ImageIsBroke" Value="The image is corrupted." />
+  <Item Key="DataError4_ParentNotExist" Value="Parent directory does not exist." />
+  <Item Key="DataError5_CsdAnalysisFailed" Value="Failed to parse the csd file." />
+  <Item Key="DataError6_DirNotExist" Value="Directory {0} does not exist." />
+  <Item Key="DataError7_NotExist" Value="{0} does not exist." />
+  <Item Key="DataError8_ImperfectRes" Value="The resource is imcomplete." />
+  <Item Key="DataError9_PairFileNotExist" Value="Pairing file &quot; {0} &quot; does exist." />
+  <Item Key="DataError10_ExportJsonError" Value="The exportJson file is not animation of version 1.x" />
+  <Item Key="DataError11_FileCorrupted" Value="Failed to load. The file may be corrupted" />
+  <Item Key="DataError12_FontIsBroke" Value="Font file is corrupted" />
+  <Item Key="DataError13_Sprite3DIsBroke" Value="Sprite 3D file is corrupted" />
+  <Item Key="DataError14_Particle3DIsBroke" Value="Particle 3D file is corrupted" />
+  <Item Key="DataError15_FntFormatNotSupport" Value="cocos2dx does not support multi page FNT file" />
+  <Item Key="DataError16_FntXmlNotSupport" Value="cocos2dx does not support XML format FNT file" />
+  <Item Key="DataError17_NotSupportPlist" Value="Unsupported .plist type" />
+  <Item Key="DataError18_NotPlistOrPng" Value="Cannot find the corresponding .plist or .png file" />
+  <Item Key="Tooltip_NoNetwork" Value="Failed to connect to Internet.&#xA;You cannot use [Configure] when the network is unavailable." />
+  <Item Key="Launcher_Projects" Value="Projects" />
+  <Item Key="Launcher_Document" Value="Documentation" />
+  <Item Key="Launcher_Tutorial" Value="Tutorials" />
+  <Item Key="Launcher_Search" Value="Search" />
+  <Item Key="Launcher_CocosStore" Value="Cocos Store" />
+  <Item Key="Launcher_Downloads" Value="Downloads" />
+  <Item Key="Launcher_OpenRecent" Value="My Projects:" />
+  <Item Key="Launcher_Login" Value="Log in" />
+  <Item Key="Launcher_FailedToLogin" Value="Failed to login" />
+  <Item Key="Launcher_Signup" Value="Sign Up" />
+  <Item Key="Launcher_LogintoCocos" Value="*Login with cocos" />
+  <Item Key="Launcher_UserAndEmail" Value="Email/User Name" />
+  <Item Key="Launcher_Password" Value="Password" />
+  <Item Key="Launcher_ForgotPassword" Value=" Forgot your password" />
+  <Item Key="Launcher_RememberMe" Value="Stay logged in" />
+  <Item Key="Launcher_EmptyUserName" Value="User name can not be empty." />
+  <Item Key="Launcher_EmptyPassword" Value="Password can not be empty." />
+  <Item Key="Launcher_LogOut" Value="Log Out" />
+  <Item Key="Launcher_Other" Value="Other" />
+  <Item Key="Launcher_InvalidProj" Value="Failed to open the project. Would you like to remove it?" />
+  <Item Key="Launcher_ContainChs" Value="Cannot open a path containing Chinese characters. Please select another path." />
+  <Item Key="Launcher_Open" Value="Open" />
+  <Item Key="Launcher_DownloadFailed" Value="Failed to download {0}. Please check your Internet connection." />
+  <Item Key="Launcher_Downloading" Value="Downloading" />
+  <Item Key="Launcher_Downloaded" Value="Downloaded" />
+  <Item Key="Launcher_ConfirmDelete" Value="Are you sure you want to delete this item?" />
+  <Item Key="Launcher_ConfirmClose" Value="Closing cocos will cancel your download(s), are you sure you want to quit?" />
+  <Item Key="Launcher_Feedback" Value="Feedback" />
+  <Item Key="Launcher_FeedbackNoLogin" Value="Log in to provide feedback." />
+  <Item Key="Launcher_QUClassify" Value="Issue Type:" />
+  <Item Key="Launcher_QUDescribe" Value="Issue Description:" />
+  <Item Key="Launcher_Submit" Value="Submit" />
+  <Item Key="Launcher_Feature" Value="Feature Request" />
+  <Item Key="Launcher_CodeIssues" Value="Code Issues" />
+  <Item Key="Launcher_BugFeedback" Value="Bug Report" />
+  <Item Key="Launcher_UserFeedback" Value="User Feedback" />
+  <Item Key="Launcher_SucceedFeedback" Value="Thank you for the suggestion. We will contact you as soon as possible." />
+  <Item Key="Launcher_FailureFeedback" Value="An error occurred, please try again." />
+  <Item Key="Launcher_IsDownloading" Value="Downloading…please wait." />
+  <Item Key="Launcher_DownloadHint1" Value="Downloaded files will be listed here. " />
+  <Item Key="Launcher_DownloadHint2" Value="Visit the store for more." />
+  <Item Key="Launcher_FeedbackCantBeEmpty" Value="Problem description is necessary, please try again." />
+  <Item Key="Launcher_Uninstall" Value="Uninstall" />
+  <Item Key="Launcher_Update" Value="Update" />
+  <Item Key="Launcher_Get" Value="Get" />
+  <Item Key="Launcher_ConfirmUninstall" Value="Are you sure you want to uninstall &quot; {0} &quot;?" />
+  <Item Key="Launcher_MsgConfirmDelete" Value="Are you sure you want to remove &quot; {0} &quot;?" />
+  <Item Key="Launcher_FailedToInstall" Value="Failed to install {0}." />
+  <Item Key="Launcher_AlreadyInstalled" Value="&quot; {0} &quot; has been installed." />
+  <Item Key="Launcher_AlreadyUninstalled" Value="&quot; {0} &quot; has been removed." />
+  <Item Key="Launcher_MacUninstall" Value="Uninstall &quot; {0} &quot; in Applications." />
+  <Item Key="Launcher_NotExist" Value="&quot; {0} &quot; has been removed or uninstalled. Please download and install it again." />
+  <Item Key="Launcher_ClickRefresh" Value="Refresh" />
+  <Item Key="Launcher_FileDamaged" Value="&quot; {0} &quot; is corrupted. Please download it again" />
+  <Item Key="Launcher_Paused" Value="Paused" />
+  <Item Key="Launcher_Start" Value="Start" />
+  <Item Key="Launcher_IllegalPath" Value="The download directory is invalid. Would you like to select a different directory?" />
+  <Item Key="Launcher_OpenCocos" Value="Open cocos" />
+  <Item Key="Launcher_UsualQuestions" Value="FAQ" />
+  <Item Key="Launcher_HotSearch" Value="Popular Searches" />
+  <Item Key="Launcher_PluginInstallPrompt" Value="To ensure the installation of the plug-in, please turn off cocos before installing." />
+  <Item Key="Launcher_StartAnySDK" Value="Submit Games" />
+  <Item Key="Launcher_Install" Value="Download" />
+  <Item Key="Launcher_InstallCocosStudio" Value="Install" />
+  <Item Key="Launcher_GotoDownload" Value="Download" />
+  <Item Key="Launcher_LaterInstall" Value="Cancel" />
+  <Item Key="Launcher_WinMessageToInstallAnySDK" Value="AnySDK is not installed on your computer. You need to choose an installation directory or install the latest version of AnySDK. " />
+  <Item Key="Launcher_MacMessageToInstallAnySDK" Value="AnySDK is not installed on your computer. Would you like to download it now?" />
+  <Item Key="Launcher_MessageToInstallCocosStudioAndAnySDK" Value="Cocos Studio and AnySDK are not installed on your computer. Would you like to download and install them now?" />
+  <Item Key="Launcher_MessageToInstallCocosStudio" Value="Cocos Studio is not installed on your computer. Would you like to install it now?" />
+  <Item Key="Launcher_MessageToInstallAndroidStudio" Value="Android Studio 1.4 or newer is not installed on your computer. Would you like to download it now?" />
+  <Item Key="Launcher_MessageToInstallVisualStudio" Value="VisualStudio Studio 2013 is not installed on your computer. Would you like to download it now?" />
+  <Item Key="Launcher_MessageToInstallXcode" Value="Xcode is not installed on your computer，Would you like to download it now?" />
+  <Item Key="Launcher_EditProject" Value="Edit Project" />
+  <Item Key="Launcher_EditProjectHaveSDK" Value="SDK(s) that you have integrated with:" />
+  <Item Key="Launcher_EditProjectSelectSDK" Value="Select the SDK(s) that you want to integrate with:" />
+  <Item Key="Launcher_IsIntegrating" Value="Integrate SDK(s) into project" />
+  <Item Key="Launcher_IntergrateSDKFailed" Value="Integrate {0} into project {1} failed" />
+  <Item Key="Launcher_ManuallySetting" Value="Custom Configuration" />
+  <Item Key="Launcher_NewCocos2dVersion" Value="Latest Engine Version: v" />
+  <Item Key="Launcher_OpenDirectory" Value="Open Folder" />
+  <Item Key="Launcher_RemoveProject" Value="Remove from My Projects" />
+  <Item Key="Launcher_Properties" Value="Properties" />
+  <Item Key="Launcher_MessageSelectProjectError" Value="Invalid file format. Please try again. " />
+  <Item Key="Launcher_MessageIsHaveSelectProject" Value="Current project cannot be imported because it already exists in “My Projects”." />
+  <Item Key="Launcher_OpenFileOrDirFailure" Value="Cannot open file or folder: {0}" />
+  <Item Key="Launcher_NeedIntallCocosStudio" Value="Cocos Studio is required." />
+  <Item Key="Launcher_NeedIntallAndroidStudio" Value="Android Studio 1.4 or newer is required." />
+  <Item Key="Launcher_NeedIntallVisualStudio" Value="Visual Studio 2013 is required." />
+  <Item Key="Launcher_NeedIntallXcode" Value="Xcode is required." />
+  <Item Key="Launcher_HasCocosStudioProject" Value="Would you like to create a Cocos Studio project file and open it in Cocos Studio?" />
+  <Item Key="Launcher_CocosStudioInstallSuccess" Value="Cocos Studio has been successfully installed." />
+  <Item Key="Launcher_InhibitoryEditorProject" Value="Not enough data to edit the project. Please import a complete cocos project (including a cocos2d-x/cocos2d-js project) and try again. " />
+  <Item Key="Launcher_AndroidStudioIsPrebuilt" Value="Only a cocos source code project can be opened in Android Studio." />
+  <Item Key="Installer_Framework" Value="Framework" />
+  <Item Key="Installer_Android" Value="Android" />
+  <Item Key="Installer_DownloadSetting" Value="Download Setting" />
+  <Item Key="Installer_SaveDir" Value="Save Directory" />
+  <Item Key="Installer_FileSumSize" Value="File size: {0}" />
+  <Item Key="Installer_DiskSize" Value=", Free disk space: {0}" />
+  <Item Key="Installer_Downstall" Value="Install" />
+  <Item Key="Installer_PlsSelectDir" Value="Please select where to save and install to" />
+  <Item Key="Installer_FilesExist" Value="The following file(s) already exist, do you want to replace?" />
+  <Item Key="Installer_AllFinished" Value="The installation is complete. &#xA;Please restart cocos for the settings to take effect." />
+  <Item Key="Installer_SameFileExists" Value="A file with the same name already exists. &#xA;Now testing it is whether the same file." />
+  <Item Key="Installer_DownloadFile" Value="Download {0}" />
+  <Item Key="Installer_InstallFile" Value="Install {0}" />
+  <Item Key="Installer_FaieldToDownload" Value="Failed to download {0}. Please try again." />
+  <Item Key="Installer_FailedToInstall" Value="Failed to install {0}. Please try again." />
+  <Item Key="Installer_FailedToSave" Value="Failed to save configuration file. Please try again." />
+  <Item Key="Installer_ShowOutput" Value="Show Output Infomation" />
+  <Item Key="Installer_NowDownloading" Value="Download in progress. Do you want to quit?" />
+  <Item Key="Installer_NowInstalling" Value="Install in progress. Do you want to quit?" />
+  <Item Key="Installer_DownloadUnfinished" Value="Download has not been completed. Do you want to quit?" />
+  <Item Key="Installer_InstallUnfinished" Value="Installation has not been completed. Do you want to quit?" />
+  <Item Key="Installer_PromptJDK" Value="If you install JDK, the value of [{0}] in the environment variables will be overwritten. Do you want to continue?" />
+  <Item Key="Installer_PlzDownInSDK" Value="Please download Android 5.1.1(API 22) or higher platform in SDK Manager." />
+  <Item Key="Installer_MakeSureJdkInstalled" Value="Please make sure that a suitable version of Java JDK installed on your system. Do you want to continue?" />
+</en-US>
